@@ -1,0 +1,13 @@
+hi, there was long time for no any challenges - so the next one:
+
+1)Using the web parser: Beautiful Soup
+https://beautiful-soup-4.readthedocs.io/en/latest/code.launchpad.net/beautifulsoup/
+
+2)Create the whole page structure like the list:
+ELEMENT_NAME = {xpath}
+with all elements form the our last used page:
+http://www.degalukainos.lt/ 
+in separate file.
+
+3)Use just the main page
+
