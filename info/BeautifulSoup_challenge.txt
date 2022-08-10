@@ -12,7 +12,7 @@ in separate file.
 3)Use just the main page
 
 Oleg additional comments:
-1)just elements from the body
+1)just elements from the body +
 2)"Text_element" = "xpath//....."  or "Label_element" = "xpath//..."
 where is the first part of the element should be represent the element as it is and the second part as element var
 3)All elements should be saved in the one file
