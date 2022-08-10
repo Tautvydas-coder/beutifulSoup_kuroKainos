@@ -34,7 +34,12 @@ def write_to_file(result, dom):
             xpath = tree.getpath(r)
             full_xpath = '/' + xpath
             elements = root.xpath(full_xpath)
-            print(elements[0].text)
+            content_text = elements[0].text
+            if content_text is None:
+                content_text = str("None")
+                file.write(content_text+'\n')
+            else:
+                file.write(content_text+'\n')
             file.write(full_xpath + '\n')
 
 
