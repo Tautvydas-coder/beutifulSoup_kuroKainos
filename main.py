@@ -19,8 +19,8 @@ for link in body:
 # print(soup)
 
 root = html.fromstring(page.content)
-elements = root.xpath('//html/body/div/div[2]/div[1]/div[4]/div[1]/h2')
-print(elements[0].text)
+element = root.xpath('//html/body/div/div[2]/div[1]/div[4]/div[1]/h2')
+print(element[0].text)
 
 tree = root.getroottree()
 result = root.xpath('/html/body/div//*')
@@ -33,8 +33,10 @@ def write_to_file(result, dom):
         for r in result:
             xpath = tree.getpath(r)
             full_xpath = '/' + xpath
+            elements = root.xpath(full_xpath)
+            print(elements[0].text)
             file.write(full_xpath + '\n')
-            print(r.get('r'))
+
 
 if __name__ == '__main__':
     write_to_file(result, dom)
