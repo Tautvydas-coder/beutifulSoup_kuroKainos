@@ -18,10 +18,15 @@ print(body)
 
 root = html.fromstring(page.text)
 tree = root.getroottree()
-result = root.xpath('//*')
-with open('xpaths.csv', 'w') as file:
-    for r in result:
-        xpath = tree.getpath(r)
-        file.write(xpath)
-        file.write('\n')
+result = root.xpath('/html/body//*')
 
+
+def write_to_file(result):
+    with open('xpaths.csv', 'w') as file:
+        for r in result:
+            xpath = tree.getpath(r)
+            file.write(xpath)
+            file.write('\n')
+
+
+write_to_file(result)
