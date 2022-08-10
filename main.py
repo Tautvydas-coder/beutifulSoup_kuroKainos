@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from lxml import html
+import csv
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 '
@@ -18,5 +19,9 @@ print(body)
 root = html.fromstring(page.text)
 tree = root.getroottree()
 result = root.xpath('//*')
-for r in result:
-    print(tree.getpath(r))
+with open('xpaths.csv', 'w') as file:
+    for r in result:
+        xpath = tree.getpath(r)
+        file.write(xpath)
+        file.write('\n')
+
