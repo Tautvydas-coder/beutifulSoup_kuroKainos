@@ -53,7 +53,7 @@ def write_to_file(result):
                 # print(last_elem[-1])
                 if last_elem[-1] == 'img':
                     elem_title = elements[0].attrib['alt']
-                    file.write(elem_title + ',')
+                    file.write("alt: "+elem_title + ',')
                     file.write(full_xpath)
                 elif last_elem[-1] == 'table':
                     file.write('Table' + ',')

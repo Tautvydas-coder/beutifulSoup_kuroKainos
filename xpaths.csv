@@ -1,7 +1,7 @@
 Empty Label Element div[1],//html/body/div/div[1]
 Empty Label Element div[1],//html/body/div/div[1]/div[1]
 Label Element a,//html/body/div/div[1]/div[1]/a
-logo,//html/body/div/div[1]/div[1]/a/img
+alt: logo,//html/body/div/div[1]/div[1]/a/img
 Empty Label Element div[2],//html/body/div/div[1]/div[2]
 Empty Label Element div[1],//html/body/div/div[1]/div[2]/div[1]
 Empty Label Element ul,//html/body/div/div[1]/div[2]/div[1]/ul
@@ -198,9 +198,9 @@ Traksëdþiai,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[3]/
 0.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[2]/img
 Label Element tr[3],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]
 Label Element td[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[1]
 Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[1]/a
@@ -216,9 +216,9 @@ Label Element td[3],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3
 0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[2]/img
 Label Element tr[4],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]
 Label Element td[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[1]
 Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[1]/a
@@ -234,9 +234,9 @@ Maironio g. 78b,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td
 0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[2]/img
 Label Element tr[5],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]
 Label Element td[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[1]
 Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[1]/a
@@ -252,9 +252,9 @@ Kuosiðkiai, Kuosiðkiø k. 4,//html/body/div/div[2]/div[2]/div/form/div/div[2]/tab
 0.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[2]/img
 Label Element tr[6],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]
 Label Element td[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[1]
 Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[1]/a
@@ -270,9 +270,9 @@ Architektø g. 80,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/t
 0.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[2]/img
 Label Element tr[7],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]
 Label Element td[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[1]
 Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[1]/a
@@ -288,9 +288,9 @@ Giruliø g. 1,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[3]
 0.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[2]/img
 Label Element tr[8],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]
 Label Element td[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[1]
 Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[1]/a
@@ -306,9 +306,9 @@ Klipðèiai,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[3]/a
 0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[2]/img
 Label Element tr[9],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]
 Label Element td[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[1]
 Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[1]/a
@@ -324,9 +324,9 @@ Parko g. 69A,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[3]
 0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[2]/img
 Label Element tr[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]
 Label Element td[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[1]
 Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[1]/a
@@ -342,9 +342,9 @@ Kurðiø g. 13A,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[
 0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[2]/img
 Label Element tr[11],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]
 Label Element td[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[1]
 Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[1]/a
@@ -360,9 +360,9 @@ Garliava, Vytauto  g. 111A,//html/body/div/div[2]/div[2]/div/form/div/div[2]/tab
 0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[2]/img
 Label Element tr[12],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]
 Label Element td[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[1]
 Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[1]/a
@@ -378,9 +378,9 @@ Jonavos g. 51,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[
 0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[2]/img
 Label Element tr[13],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]
 Label Element td[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[1]
 Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[1]/a
@@ -396,9 +396,9 @@ Rytinio Kelio g. 19,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1
 0.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[2]/img
 Label Element tr[14],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]
 Label Element td[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[1]
 Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[1]/a
@@ -414,9 +414,9 @@ V. Krëvës pr. 116,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]
 0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]/div[2]/img
 Label Element tr[15],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]
 Label Element td[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[1]
 Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[1]/a
@@ -432,9 +432,9 @@ Babtø k.,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[3]/a
 0.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[2]/img
 Label Element tr[16],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]
 Label Element td[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[1]
 Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[1]/a
@@ -450,9 +450,9 @@ Pramonës g. 5,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[
 -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[2]/img
 Label Element tr[17],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]
 Label Element td[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[1]
 Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[1]/a
@@ -468,9 +468,9 @@ Miðkininkø g. 7,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/t
 -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]/div[2]/img
 Label Element tr[18],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]
 Label Element td[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[1]
 Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[1]/a
@@ -486,9 +486,9 @@ Rumðiðkës,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[3]/a
 0.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[2]/img
 Label Element tr[19],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]
 Label Element td[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[1]
 Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[1]/a
@@ -504,9 +504,9 @@ Pageleþiø k.,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[3
 0.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[2]/img
 Label Element tr[20],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]
 Label Element td[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[1]
 Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[1]/a
@@ -522,9 +522,9 @@ Pramonës g. 7c,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td
 0.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[2]/img
 Label Element tr[21],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]
 Label Element td[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[1]
 Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[1]/a
@@ -540,9 +540,9 @@ Label Element td[3],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2
 -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[9]
 Label Element td[10],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]
 Label Element div[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[1]
-Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[1]/img
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[1]/img
 Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[2]
-Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[2]/img
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[2]/img
 Empty Label Element div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[2]
 Label Element div[3],//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]
 Label Element ul,//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul
