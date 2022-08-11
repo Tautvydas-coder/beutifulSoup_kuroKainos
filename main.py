@@ -1,9 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 from lxml import html, etree
-from itertools import zip_longest
-import csv
-import re
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 '
@@ -71,10 +68,10 @@ def write_to_file(result):
                     file.write('Element: ' + elem_title + ',')
                     file.write(full_xpath)
                 elif content_text is None:
-                    file.write(str("Label Element") + ',')
+                    file.write(str("Label Element ") + last_elem[-1] + ',')
                     file.write(full_xpath)
                 elif content_text.isspace():
-                    file.write('Empty Label Element' + ',')
+                    file.write('Empty Label Element ' + last_elem[-1] + ',')
                     file.write(full_xpath)
                 else:
                     file.write(content_text + ',')
