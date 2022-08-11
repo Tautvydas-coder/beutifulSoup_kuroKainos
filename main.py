@@ -37,7 +37,8 @@ def write_to_file(result):
         for r in result:
             xpath = tree.getpath(r)
             full_xpath = '/' + xpath
-            if not (full_xpath.__contains__('script') or full_xpath.__contains__('plusone') or full_xpath.__contains__('ins')):
+            if not (full_xpath.__contains__('script') or full_xpath.__contains__('plusone') or full_xpath.__contains__(
+                    'ins')):
                 elements = root.xpath(full_xpath)
                 content_text = elements[0].text
                 # print(type(print(content_text)))
