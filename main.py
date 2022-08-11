@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from lxml import html, etree
 from itertools import zip_longest
 import csv
+import re
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 '
@@ -22,8 +23,12 @@ soup = BeautifulSoup(page.content, 'html.parser')
 # print(soup)
 
 root = html.fromstring(page.content)
-element = root.xpath('//html/body/div/div[2]/div[1]/div[4]/div[1]/h2')
-
+element = root.xpath('//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[1]/img')
+elementy = ('//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[1]/img')
+# last=elementy.split('/')
+# print(last[-1])
+# print(element)
+# print(element[0].attrib['title'])
 # print(type(print(element[0].text)))
 
 tree = root.getroottree()
@@ -31,6 +36,9 @@ result = root.xpath('/html/body/div//*')
 
 dom = etree.HTML(str(root))
 
+
+# elementr = root.xpath('//html/body/div[1]/div[2]/div[2]/div/form/div/div[2]/table')
+# print(elementr[0].attrib['id'])
 
 def write_to_file(result):
     with open('xpaths.csv', 'w') as file:
@@ -40,11 +48,33 @@ def write_to_file(result):
             if not (full_xpath.__contains__('script') or full_xpath.__contains__('plusone') or full_xpath.__contains__(
                     'ins')):
                 elements = root.xpath(full_xpath)
+                # print(full_xpath)
                 content_text = elements[0].text
+                print(content_text)
+
                 # print(type(print(content_text)))
-                if content_text is None or content_text == "" or len(content_text) == 0:
-                    content_text = str("None")
-                    file.write(content_text + ',')
+                last_elem = xpath.split('/')
+                # print(last_elem[-1])
+                if last_elem[-1] == 'img':
+                    elem_title = elements[0].attrib['alt']
+                    file.write(elem_title + ',')
+                    file.write(full_xpath)
+                elif last_elem[-1] == 'table':
+                    file.write('Table' + ',')
+                    file.write(full_xpath)
+                elif last_elem[-1] == 'span':
+                    elem_title = elements[0].attrib['class']
+                    file.write('Class name: ' + elem_title + ',')
+                    file.write(full_xpath)
+                elif last_elem[-1] == '':
+                    elem_title = elements[0].attrib['']
+                    file.write('Element: ' + elem_title + ',')
+                    file.write(full_xpath)
+                elif content_text is None:
+                    file.write(str("Label Element") + ',')
+                    file.write(full_xpath)
+                elif content_text.isspace():
+                    file.write('Empty Label Element' + ',')
                     file.write(full_xpath)
                 else:
                     file.write(content_text + ',')
