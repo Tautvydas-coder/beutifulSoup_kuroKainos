@@ -47,8 +47,7 @@ def write_to_file(result):
                 elements = root.xpath(full_xpath)
                 # print(full_xpath)
                 content_text = elements[0].text
-                print(content_text)
-
+                # print(content_text)
                 # print(type(print(content_text)))
                 last_elem = xpath.split('/')
                 # print(last_elem[-1])
