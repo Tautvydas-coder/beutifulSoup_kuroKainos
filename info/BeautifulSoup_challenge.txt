@@ -14,7 +14,7 @@ in separate file.
 Oleg additional comments:
 1)just elements from the body +
 2)"Text_element" = "xpath//....."  or "Label_element" = "xpath//..."
-where is the first part of the element should be represent the element as it is and the second part as element var
-3)All elements should be saved in the one file
-4)for example from the attached picture:"'Kuro kainos degalinėse' - Text" = "//*[@id="filtering"]/div/h1"
+where is the first part of the element should be represent the element as it is and the second part as element var +-
+3)All elements should be saved in the one file +
+4)for example from the attached picture:"'Kuro kainos degalinėse' - Text" = "//*[@id="filtering"]/div/h1" +-
 
