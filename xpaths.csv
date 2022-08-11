@@ -42,7 +42,6 @@ None,//html/body/div/div[1]/div[3]
 				,//html/body/div/div[2]/div[1]
 
 					,//html/body/div/div[2]/div[1]/div[1]
-None,//html/body/div/div[2]/div[1]/div[1]/plusone
 
 					,//html/body/div/div[2]/div[1]/div[2]
 None,//html/body/div/div[2]/div[1]/div[2]/iframe
@@ -54,11 +53,6 @@ None,//html/body/div/div[2]/div[1]/div[3]
 Reklama,//html/body/div/div[2]/div[1]/div[4]/div[1]/h2
 
 		 ,//html/body/div/div[2]/div[1]/div[4]/div[2]
-None,//html/body/div/div[2]/div[1]/div[4]/div[2]/script[1]
-None,//html/body/div/div[2]/div[1]/div[4]/div[2]/ins
-
-		(adsbygoogle = window.adsbygoogle || []).push({});
-		,//html/body/div/div[2]/div[1]/div[4]/div[2]/script[2]
 None,//html/body/div/div[2]/div[1]/div[4]/div[3]
 
 	,//html/body/div/div[2]/div[1]/div[5]
@@ -609,11 +603,6 @@ Dujø kainos,//html/body/div/div[2]/div[2]/div/form/div/div[3]/a[5]
 None,//html/body/div/div[2]/div[2]/div/form/div/div[3]/br[5]
 
 		,//html/body/div/div[2]/div[2]/div/form/div/div[4]
-None,//html/body/div/div[2]/div[2]/div/form/div/div[4]/script[1]
-None,//html/body/div/div[2]/div[2]/div/form/div/div[4]/ins
-
-		(adsbygoogle = window.adsbygoogle || []).push({});
-		,//html/body/div/div[2]/div[2]/div/form/div/div[4]/script[2]
 None,//html/body/div/div[2]/div[2]/div/form/div/div[5]
 
 	,//html/body/div/div[2]/div[2]/div/form/div/div[6]
