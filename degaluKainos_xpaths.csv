@@ -1,0 +1,587 @@
+Empty Label Element: div[1],//html/body/div/div[1]
+Empty Label Element: div[1],//html/body/div/div[1]/div[1]
+No info (type: None),//html/body/div/div[1]/div[1]/a
+alt: logo,//html/body/div/div[1]/div[1]/a/img
+Empty Label Element: div[2],//html/body/div/div[1]/div[2]
+Empty Label Element: div[1],//html/body/div/div[1]/div[2]/div[1]
+Empty Label Element: ul,//html/body/div/div[1]/div[2]/div[1]/ul
+No info (type: None),//html/body/div/div[1]/div[2]/div[1]/ul/li[1]
+Text: Degalø kainos,//html/body/div/div[1]/div[2]/div[1]/ul/li[1]/a
+No info (type: None),//html/body/div/div[1]/div[2]/div[1]/ul/li[2]
+Text: Statistika,//html/body/div/div[1]/div[2]/div[1]/ul/li[2]/a
+No info (type: None),//html/body/div/div[1]/div[2]/div[1]/ul/li[3]
+Text: Straipsniai,//html/body/div/div[1]/div[2]/div[1]/ul/li[3]/a
+No info (type: None),//html/body/div/div[1]/div[2]/div[1]/ul/li[4]
+Text: Apie mus,//html/body/div/div[1]/div[2]/div[1]/ul/li[4]/a
+No info (type: None),//html/body/div/div[1]/div[2]/div[1]/ul/li[5]
+Text: Bendradarbiavimas,//html/body/div/div[1]/div[2]/div[1]/ul/li[5]/a
+Empty Label Element: div[2],//html/body/div/div[1]/div[2]/div[2]
+No info (type: None),//html/body/div/div[1]/div[2]/div[2]/div[1]
+Empty Label Element: ul,//html/body/div/div[1]/div[2]/div[2]/ul
+No info (type: None),//html/body/div/div[1]/div[2]/div[2]/ul/li[1]
+Text: Degalø kainos Lietuvoje,//html/body/div/div[1]/div[2]/div[2]/ul/li[1]/a
+No info (type: None),//html/body/div/div[1]/div[2]/div[2]/ul/li[2]
+Text:  | Maþiausios kainos Lietuvoje,//html/body/div/div[1]/div[2]/div[2]/ul/li[2]/a
+No info (type: None),//html/body/div/div[1]/div[2]/div[2]/ul/li[3]
+Text:  | Degalø kainos Europoje,//html/body/div/div[1]/div[2]/div[2]/ul/li[3]/a
+No info (type: None),//html/body/div/div[1]/div[2]/div[2]/ul/li[4]
+Text:  | Mano degalinës,//html/body/div/div[1]/div[2]/div[2]/ul/li[4]/a
+No info (type: None),//html/body/div/div[1]/div[2]/div[2]/div[2]
+No info (type: None),//html/body/div/div[1]/div[2]/div[2]/div[3]
+No info (type: None),//html/body/div/div[1]/div[3]
+Empty Label Element: div[2],//html/body/div/div[2]
+Empty Label Element: div[1],//html/body/div/div[2]/div[1]
+Empty Label Element: div[1],//html/body/div/div[2]/div[1]/div[1]
+No info (type: None),//html/body/div/div[2]/div[1]/div[1]/plusone
+Empty Label Element: div[2],//html/body/div/div[2]/div[1]/div[2]
+No info (type: None),//html/body/div/div[2]/div[1]/div[2]/iframe
+No info (type: None),//html/body/div/div[2]/div[1]/div[3]
+Empty Label Element: div[4],//html/body/div/div[2]/div[1]/div[4]
+Empty Label Element: div[1],//html/body/div/div[2]/div[1]/div[4]/div[1]
+Text: Reklama,//html/body/div/div[2]/div[1]/div[4]/div[1]/h2
+Empty Label Element: div[2],//html/body/div/div[2]/div[1]/div[4]/div[2]
+No info (type: None),//html/body/div/div[2]/div[1]/div[4]/div[2]/ins
+No info (type: None),//html/body/div/div[2]/div[1]/div[4]/div[3]
+Empty Label Element: div[5],//html/body/div/div[2]/div[1]/div[5]
+Empty Label Element: div[1],//html/body/div/div[2]/div[1]/div[5]/div[1]
+Text: Draugai,//html/body/div/div[2]/div[1]/div[5]/div[1]/h2
+Empty Label Element: div[2],//html/body/div/div[2]/div[1]/div[5]/div[2]
+Empty Label Element: ul,//html/body/div/div[2]/div[1]/div[5]/div[2]/ul
+Empty Label Element: li,//html/body/div/div[2]/div[1]/div[5]/div[2]/ul/li
+Text: Butanas – prekës dujoms,//html/body/div/div[2]/div[1]/div[5]/div[2]/ul/li/a
+No info (type: None),//html/body/div/div[2]/div[1]/div[5]/div[3]
+Empty Label Element: div[2],//html/body/div/div[2]/div[2]
+No info (type: None),//html/body/div/div[2]/div[2]/div
+Empty Label Element: form,//html/body/div/div[2]/div[2]/div/form
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/input
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/br
+Empty Label Element: div,//html/body/div/div[2]/div[2]/div/form/div
+Text: Kuro kainos degalinëse,//html/body/div/div[2]/div[2]/div/form/div/h1
+Empty Label Element: div[1],//html/body/div/div[2]/div[2]/div/form/div/div[1]
+Empty Label Element: div,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div
+Empty Label Element: table,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table
+Empty Label Element: tr[1],//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[1]
+Text: Miestas,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[1]/td[1]
+Text: Degaliniø tinklas,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[1]/td[2]
+Text: Data,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[1]/td[3]
+Text: Adresas,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[1]/td[4]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[1]/td[5]
+Empty Label Element: tr[2],//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]
+Empty Label Element: td[1],//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select
+Text: -Visi miestai-,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[1]
+Text: Vilnius,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[2]
+Text: Kaunas,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[3]
+Text: Klaipëda,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[4]
+Text: Ðiauliai,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[5]
+Text: Panevëþys,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[6]
+Text: Akmenë,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[7]
+Text: Alytus,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[8]
+Text: Anykðèiai,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[9]
+Text: Birþai,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[10]
+Text: Druskininkai,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[11]
+Text: Elektrënai,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[12]
+Text: Gargþdai,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[13]
+Text: Grigiðkës,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[14]
+Text: Ignalina,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[15]
+Text: Jieznas,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[16]
+Text: Jonava,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[17]
+Text: Joniðkis,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[18]
+Text: Jurbarkas,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[19]
+Text: Kaiðiadorys,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[20]
+Text: Kalvarija,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[21]
+Text: Kazlø Rûda,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[22]
+Text: Këdainiai,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[23]
+Text: Kelmë,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[24]
+Text: Kretinga,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[25]
+Text: Kretingalë,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[26]
+Text: Kryþkalnis,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[27]
+Text: Kurðënai,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[28]
+Text: Kybartai,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[29]
+Text: Lazdijai,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[30]
+Text: Leipalingis,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[31]
+Text: Marijampolë,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[32]
+Text: Maþeikiai,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[33]
+Text: Pabradë,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[34]
+Text: Pakruojis,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[35]
+Text: Palanga,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[36]
+Text: Pasvalys,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[37]
+Text: Plungë,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[38]
+Text: Priekulë,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[39]
+Text: Prienai,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[40]
+Text: Radviliðkis,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[41]
+Text: Raseiniai,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[42]
+Text: Rokiðkis,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[43]
+Text: Ðakiai,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[44]
+Text: Ðalèininkai,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[45]
+Text: Ðeduva,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[46]
+Text: Ðilalë,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[47]
+Text: Ðilutë,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[48]
+Text: Skuodas,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[49]
+Text: Tauragë,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[50]
+Text: Telðiai,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[51]
+Text: Trakai,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[52]
+Text: Ukmergë,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[53]
+Text: Utena,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[54]
+Text: Varëna,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[55]
+Text: Vievis,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[56]
+Text: Vilkaviðkis,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[57]
+Text: Visaginas,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[58]
+Text: Zapyðkis,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[59]
+Empty Label Element: td[2],//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select
+Text: Visos degalinës,//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[1]
+Text: Saurida (27),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[2]
+Text: Jozita (11),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[3]
+Text: Statoil (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[4]
+Text: Lukoil (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[5]
+Text: Ventus (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[6]
+Text: Orlen (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[7]
+Text: Vakoil (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[8]
+Text: Alauða (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[9]
+Text: Sensus  (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[10]
+Text: Regusa (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[11]
+Text: Apoil (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[12]
+Text: Egas (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[13]
+Text: Kvistija (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[14]
+Text: Ecoil (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[15]
+Text: Rotada (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[16]
+Text: Videra (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[17]
+Text: Skirnuva (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[18]
+Text: Neste (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[19]
+Text: Cauda (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[20]
+Text: Milda (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[21]
+Text: Baltic Petroleum (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[22]
+Text: Luktarna (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[23]
+Text: Takuras (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[24]
+Text: Emsi (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[25]
+Text: Metano dujø sistemos (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[26]
+Text: Grifskana (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[27]
+Text: 3-4 (0),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[28]
+Empty Label Element: td[3],//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[3]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[3]/input
+Empty Label Element: td[4],//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[4]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[4]/input
+Empty Label Element: td[5],//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[5]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[5]/input
+Empty Label Element: div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul/li[1]
+Text: 1,//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul/li[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul/li[2]
+Text: 2,//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul/li[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul/li[3]
+Text: Kitas,//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul/li[3]/a
+Empty Label Element: table,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table
+Empty Label Element: tr[1],//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]
+Text: Operatorius,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[1]
+Text: Miestas,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[2]
+Text: Adresas,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[3]
+Text: A98,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[4]
+Text: A95,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[5]
+Text: D,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[6]
+Text: Dþ,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[7]
+Text: E85,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[8]
+Text: Dujos,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[9]
+Text: Paþymëti,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[1]
+Text: Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[2]
+Text: Vilnius,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[3]
+Text: Parko g. 69A,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[3]/a
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[4]
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[5]
+Text: 1.660,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[6]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[8]
+Text: 0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[2]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[1]
+Text: Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[2]
+Text: Kaunas,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[3]
+Text: Jonavos g. 51,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[3]/a
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[4]
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[5]
+Text: 1.660,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[6]
+Text: 1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[8]
+Text: 0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[2]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[1]
+Text: Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[2]
+Text: Kaunas,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[3]
+Text: Kurðiø g. 13A,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[3]/a
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[4]
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[5]
+Text: 1.660,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[6]
+Text: 1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[8]
+Text: 0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[2]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[1]
+Text: Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[2]
+Text: Kaunas,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[3]
+Text: Garliava, Vytauto  g. 111A,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[3]/a
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[4]
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[5]
+Text: 1.660,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[6]
+Text: 1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[8]
+Text: 0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[2]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[1]
+Text: Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[2]
+Text: Klaipëda,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[3]
+Text: Klipðèiai,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[3]/a
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[4]
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[5]
+Text: 1.660,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[6]
+Text: 1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[8]
+Text: 0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[2]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[1]
+Text: Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[2]
+Text: Ðiauliai,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[3]
+Text: Giruliø g. 1,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[3]/a
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[4]
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[5]
+Text: 1.660,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[6]
+Text: 1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[8]
+Text: 0.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[2]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[1]
+Text: Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[2]
+Text: Ðiauliai,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[3]
+Text: Architektø g. 80,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[3]/a
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[4]
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[5]
+Text: 1.660,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[6]
+Text: 1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[8]
+Text: 0.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[2]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[1]
+Text: Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[2]
+Text: Pakruojis,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[3]
+Text: Kuosiðkiai, Kuosiðkiø k. 4,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[3]/a
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[4]
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[5]
+Text: 1.660,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[6]
+Text: 1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[8]
+Text: 0.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[2]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[1]
+Text: Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[2]
+Text: Raseiniai,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[3]
+Text: Maironio g. 78b,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[3]/a
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[4]
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[5]
+Text: 1.660,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[6]
+Text: 1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[8]
+Text: 0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[2]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[1]
+Text: Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[2]
+Text: Ðilalë,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[3]
+Text: Ðoliø k.,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[3]/a
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[4]
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[5]
+Text: 1.660,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[6]
+Text: 1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[8]
+Text: 0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[2]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[1]
+Text: Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[2]
+Text: Ðilutë,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[3]
+Text: Traksëdþiai,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[3]/a
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[4]
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[5]
+Text: 1.660,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[6]
+Text: 1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[8]
+Text: 0.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[2]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[1]
+Text: Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[2]
+Text: Ðiauliai,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[3]
+Text: Vilniaus g. 373a,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[3]/a
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[4]
+Text: 1.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[5]
+Text: 1.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[6]
+Text: 1.370,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[8]
+Text: 0.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[2]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[1]
+Text: Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[2]
+Text: Ðilalë,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[3]
+Text: Rytinio Kelio g. 19,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[3]/a
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[4]
+Text: 1.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[5]
+Text: 1.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[6]
+Text: 1.350,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[8]
+Text: 0.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]/div[2]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[1]
+Text: Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[2]
+Text: Kaunas,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[3]
+Text: Babtø k.,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[3]/a
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[4]
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[5]
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[6]
+Text: 1.390,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[8]
+Text: 0.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[2]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[1]
+Text: Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[2]
+Text: Kaunas,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[3]
+Text: V. Krëvës pr. 116,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[3]/a
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[4]
+Text: 1.700,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[5]
+Text: 1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[6]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[8]
+Text: 0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[2]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[1]
+Text: Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[2]
+Text: Alytus,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[3]
+Text: Pramonës g. 5,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[3]/a
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[4]
+Text: 1.710,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[5]
+Text: 1.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[6]
+Text: 1.370,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[8]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]/div[2]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[1]
+Text: Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[2]
+Text: Alytus,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[3]
+Text: Miðkininkø g. 7,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[3]/a
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[4]
+Text: 1.710,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[5]
+Text: 1.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[6]
+Text: 1.370,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[8]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[2]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[1]
+Text: Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[2]
+Text: Kaiðiadorys,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[3]
+Text: Rumðiðkës,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[3]/a
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[4]
+Text: 1.700,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[5]
+Text: 1.700,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[6]
+Text: 1.410,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[8]
+Text: 0.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[2]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[1]
+Text: Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[2]
+Text: Lazdijai,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[3]
+Text: Panarvës k.,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[3]/a
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[4]
+Text: 1.710,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[5]
+Text: 1.710,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[6]
+Text: 1.400,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[8]
+Text: 0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[2]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[1]
+Text: Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[2]
+Text: Klaipëda,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[3]
+Text: Jûrininkø pr. 29,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[3]/a
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[4]
+Text: 1.710,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[5]
+Text: 1.710,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[6]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[7]
+Text: -,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[8]
+Text: 0.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[9]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[1]
+alt: Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[1]/img
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[2]
+alt: Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[2]/img
+Empty Label Element: div[2],//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[2]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul/li[1]
+Text: 1,//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul/li[1]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul/li[2]
+Text: 2,//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul/li[2]/a
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul/li[3]
+Text: Kitas,//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul/li[3]/a
+Empty Label Element: div[3],//html/body/div/div[2]/div[2]/div/form/div/div[3]
+Text: Kainø pokyèiai bei statistika:,//html/body/div/div[2]/div[2]/div/form/div/div[3]/strong
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[3]/br[1]
+Text: A95 benzino kainos,//html/body/div/div[2]/div[2]/div/form/div/div[3]/a[1]
+Text: A98 benzino kainos,//html/body/div/div[2]/div[2]/div/form/div/div[3]/a[2]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[3]/br[2]
+Text: Dyzelino kainos,//html/body/div/div[2]/div[2]/div/form/div/div[3]/a[3]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[3]/br[3]
+Text: Bioetanolio E85 kainos,//html/body/div/div[2]/div[2]/div/form/div/div[3]/a[4]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[3]/br[4]
+Text: Dujø kainos,//html/body/div/div[2]/div[2]/div/form/div/div[3]/a[5]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[3]/br[5]
+Empty Label Element: div[4],//html/body/div/div[2]/div[2]/div/form/div/div[4]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[4]/ins
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[5]
+Empty Label Element: div[6],//html/body/div/div[2]/div[2]/div/form/div/div[6]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[6]/br[1]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[6]/br[2]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[6]/br[3]
+No info (type: None),//html/body/div/div[2]/div[2]/div/form/div/div[6]/br[4]
+No info (type: None),//html/body/div/div[2]/div[3]
+Empty Label Element: div[3],//html/body/div/div[3]
+Empty Label Element: div[4],//html/body/div/div[4]
+Empty Label Element: div[1],//html/body/div/div[4]/div[1]
+No info (type: None),//html/body/div/div[4]/div[1]/p
+Empty Label Element: div[2],//html/body/div/div[4]/div[2]
+Text: © ,//html/body/div/div[4]/div[2]/p[1]
+Text: degalukainos.lt,//html/body/div/div[4]/div[2]/p[1]/b
+No info (type: None),//html/body/div/div[4]/div[2]/p[2]
+Class name: contacts_white,//html/body/div/div[4]/div[2]/p[2]/span
+No info (type: None),//html/body/div/div[4]/div[3]
