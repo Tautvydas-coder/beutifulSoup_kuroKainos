@@ -17,12 +17,13 @@ from page_info import page
 # print(soup)
 
 # -------LXML-----------
-# element = root.xpath('//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[1]/img')
+# root=html.fromstring(page.content)
+# element = root.xpath('/html/body/div[1]/div[4]/div[2]/p[1]')
 # elementy = ('//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[1]/img')
 # last=elementy.split('/')
 # print(last[-1])
 # print(element)
-# print(element[0].attrib['title'])
+# print(element[0].text)
 # print(type(print(element[0].text)))
 # tree = root.getroottree()
 # results = root.xpath('/html/body/div//*')
@@ -30,6 +31,8 @@ from page_info import page
 # elementr = root.xpath('//html/body/div[1]/div[2]/div[2]/div/form/div/div[2]/table')
 # print(elementr[0].attrib['id'])
 # --------------------------------
+
+
 def fetch_page_content():
     page_content = html.fromstring(page.content)
     return page_content
@@ -57,27 +60,18 @@ def write_to_file(results, tree):
                 if last_elem[-1] == 'img':
                     elem_title = elements[0].attrib['alt']
                     file.write("alt: " + elem_title + ',')
-                    file.write(full_xpath)
                 elif last_elem[-1] == 'table':
                     file.write('Table' + ',')
-                    file.write(full_xpath)
                 elif last_elem[-1] == 'span':
                     elem_title = elements[0].attrib['class']
                     file.write('Class name: ' + elem_title + ',')
-                    file.write(full_xpath)
-                elif last_elem[-1] == '':
-                    elem_title = elements[0].attrib['']
-                    file.write('Element: ' + elem_title + ',')
-                    file.write(full_xpath)
                 elif content_text is None:
-                    file.write("Label Element: " + last_elem[-1] + ',')
-                    file.write(full_xpath)
+                    file.write("No info" + ',')
                 elif content_text.isspace():
                     file.write('Empty Label Element: ' + last_elem[-1] + ',')
-                    file.write(full_xpath)
                 else:
                     file.write("Text: " + content_text + ',')
-                    file.write(full_xpath)
+                file.write(full_xpath)
                 file.write('\n')
 
 
@@ -86,3 +80,8 @@ if __name__ == '__main__':
     tree = fetch_root_tree(root)
     results = fetch_web_element_info(root)
     write_to_file(results, tree)
+
+    # xpathr = [tree.getpath(result) for result in results]
+    # print(xpathr)
+    # full_xpath = ['/' + xpathr[results.index(result)] for result in results]
+    # print(full_xpath)
