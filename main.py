@@ -67,8 +67,7 @@ def write_to_file(results, tree):
                     file.write('Empty Label Element: ' + last_elem[-1])
                 else:
                     file.write("Text: " + content_text)
-                file.write(","+"/"+xpath)
-                file.write('\n')
+                file.write("," + "/" + xpath + "\n")
 
 
 if __name__ == '__main__':
