@@ -51,7 +51,7 @@ def write_to_file(results, tree):
     with open('degaluKainos_xpaths.csv', 'w') as file:
         for result in results:
             xpath = tree.getpath(result)
-            if not (xpath.__contains__('script')):
+            if not xpath.__contains__('script'):
                 elements = root.xpath(xpath)
                 content_text = elements[0].text
                 last_elem = xpath.split('/')
@@ -62,7 +62,7 @@ def write_to_file(results, tree):
                     elem_title = elements[0].attrib['class']
                     file.write('Class name: ' + elem_title)
                 elif content_text is None:
-                    file.write("No info (None)")
+                    file.write("No info (type: None)")
                 elif content_text.isspace():
                     file.write('Empty Label Element: ' + last_elem[-1])
                 else:
