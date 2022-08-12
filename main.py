@@ -1,4 +1,3 @@
-import requests
 from bs4 import BeautifulSoup
 from lxml import html, etree
 from page_info import page
@@ -52,26 +51,23 @@ def write_to_file(results, tree):
     with open('degaluKainos_xpaths.csv', 'w') as file:
         for result in results:
             xpath = tree.getpath(result)
-            full_xpath = '/' + xpath
-            if not (full_xpath.__contains__('script')):
-                elements = root.xpath(full_xpath)
+            if not (xpath.__contains__('script')):
+                elements = root.xpath(xpath)
                 content_text = elements[0].text
                 last_elem = xpath.split('/')
                 if last_elem[-1] == 'img':
                     elem_title = elements[0].attrib['alt']
-                    file.write("alt: " + elem_title + ',')
-                elif last_elem[-1] == 'table':
-                    file.write('Table' + ',')
+                    file.write("alt: " + elem_title)
                 elif last_elem[-1] == 'span':
                     elem_title = elements[0].attrib['class']
-                    file.write('Class name: ' + elem_title + ',')
+                    file.write('Class name: ' + elem_title)
                 elif content_text is None:
-                    file.write("No info" + ',')
+                    file.write("No info (None)")
                 elif content_text.isspace():
-                    file.write('Empty Label Element: ' + last_elem[-1] + ',')
+                    file.write('Empty Label Element: ' + last_elem[-1])
                 else:
-                    file.write("Text: " + content_text + ',')
-                file.write(full_xpath)
+                    file.write("Text: " + content_text)
+                file.write(","+"/"+xpath)
                 file.write('\n')
 
 
