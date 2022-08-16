@@ -83,7 +83,7 @@ def write_to_file(results, tree):
 
 
 def write_to_json(results, tree):
-    with open('degaluKainos_xpaths.json', 'w') as file:
+    with open('Kainos_xpaths.json', 'w') as file:
         for result in results:
             xpath = tree.getpath(result)
             if not xpath.__contains__('script'):
