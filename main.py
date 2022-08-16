@@ -28,9 +28,9 @@ tree = root.getroottree()
 
 # results = root.xpath('/html/body/div//*')
 # dom = etree.HTML(str(root))
-# elementr = root.xpath('//html/body/div[1]/div[2]/div[2]/div/form/div/div[2]/table')
-# if elementr[0].get('class') is not None:
-#     print(elementr[0].get('class'))
+# elementr = root.xpath('//html/body/div[1]/div[1]/div[1]/a')
+# if elementr[0].get('href') is not None:
+#     print(elementr[0].get('href'))
 # else:
 #     print('no')
 #
@@ -67,30 +67,30 @@ def write_to_file(results, tree):
                 content_text = elements[0].text
                 last_elem = xpath.split('/')
                 if last_elem[-1] == 'img':
-                    elem_title = elements[0].get('alt')
-                    file.write("alt: " + elem_title)
+                    atr_alt = elements[0].get('alt')
+                    file.write("alt: " + atr_alt)
                 elif last_elem[-1] == 'span':
-                    elem_title = elements[0].get('class')
-                    file.write('Class name: ' + elem_title)
+                    elem_span = elements[0].get('class')
+                    file.write('class: ' + elem_span)
                 elif content_text is None or content_text.isspace():
-                    print("xpath " + xpath)
+                    # file.write("xpath " + xpath)
                     if elements[0].get('id') is not None:
-                        elem_id = elements[0].get('id')
+                        atr_id = elements[0].get('id')
                         # file.write(elem_id)
-                        print("elem_id " + elem_id)
+                        file.write("id: " + atr_id)
                     elif elements[0].get('class') is not None:
-                        elem_class = elements[0].get('class')
+                        atr_class = elements[0].get('class')
                         # file.write(elem_class)
-                        print("elem_class " + elem_class)
+                        file.write("class: " + atr_class)
+                    elif elements[0].get('href') is not None:
+                        atr_href = elements[0].get('href')
+                        file.write("href: " + atr_href)
                     else:
-                        print("no")
-                #         # elem_class = elements[0].get('class')
-                #         # file.write(elem_class)
-                #     file.write("No info (type: None)")
+                        file.write("No info (type: None)")
                 # elif content_text.isspace():
                 #     file.write('Empty Label Element: ' + last_elem[-1])
-                # else:
-                #     file.write("Text: " + content_text)
+                else:
+                    file.write("Text: " + content_text)
                 file.write("," + "/" + xpath + "\n")
 
 
