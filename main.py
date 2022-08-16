@@ -1,7 +1,5 @@
 import csv
-
-from bs4 import BeautifulSoup
-from lxml import html, etree
+from lxml import html
 from page_info import page
 import json
 
@@ -38,10 +36,7 @@ import json
 #     print('no')
 # if elementr[0].get('id') is True:
 #     print(elementr[0].get('id'))
-
-
 # --------------------------------
-# TODO 3) JSON format something like {'id': 'footCopy'} : /html/body/div/div[4]/div[2]s
 
 def fetch_page_content():
     page_content = html.fromstring(page.content)
@@ -59,7 +54,7 @@ def fetch_web_element_info(root):
 
 
 def write_to_csv(results, tree):
-    with open('degaluKainos_xpaths.csv', 'w') as file:
+    with open('outputs/degaluKainos_xpaths.csv', 'w',encoding='windows-1257',errors="xmlcharrefreplace") as file:
         file.write("type" + "," + "attribute" + "," + "xpath" + "\n")
         for result in results:
             xpath = tree.getpath(result)
@@ -72,7 +67,7 @@ def write_to_csv(results, tree):
                         file.write("id" + "," + atr_id)
                     elif elements[0].get('alt') is not None:
                         atr_alt = elements[0].get('alt')
-                        file.write("alt_img" + "," + atr_alt)
+                        file.write("alt" + "," + atr_alt)
                     elif elements[0].get('class') is not None:
                         atr_class = elements[0].get('class')
                         file.write("class" + "," + atr_class)
@@ -80,7 +75,7 @@ def write_to_csv(results, tree):
                         atr_href = elements[0].get('href')
                         file.write("href" + "," + atr_href)
                     else:
-                        file.write("None" + "," + "")
+                        file.write("none" + "," + "")
                 else:
                     file.write("text" + "," + content_text)
                 file.write("," + "/" + xpath + "\n")
@@ -105,14 +100,14 @@ def write_to_csv(results, tree):
 
 
 def write_to_json():
-    jsonArray = []
-    with open('degaluKainos_xpaths.csv') as csv_file:
-        csvReader = csv.DictReader(csv_file)
-        for row in csvReader:
-            jsonArray.append(row)
-    with open('Kainos_xpaths.json', 'w') as json_file:
-        jsonString = json.dumps(jsonArray, indent=4)
-        json_file.write(jsonString)
+    json_array = []
+    with open('outputs/degaluKainos_xpaths.csv', 'r') as csv_file:
+        csv_reader = csv.DictReader(csv_file)
+        for row in csv_reader:
+            json_array.append(row)
+    with open('outputs/Kainos_xpaths.json', 'w') as json_file:
+        json_string = json.dumps(json_array, indent=4,ensure_ascii=False)
+        json_file.write(json_string)
 
 
 if __name__ == '__main__':
