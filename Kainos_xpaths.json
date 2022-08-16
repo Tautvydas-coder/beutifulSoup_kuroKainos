@@ -1,0 +1,2943 @@
+[
+    {
+        "type": "id",
+        "attribute": "header",
+        "xpath": "//html/body/div/div[1]"
+    },
+    {
+        "type": "id",
+        "attribute": "logo",
+        "xpath": "//html/body/div/div[1]/div[1]"
+    },
+    {
+        "type": "class",
+        "attribute": "pointer",
+        "xpath": "//html/body/div/div[1]/div[1]/a"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "logo",
+        "xpath": "//html/body/div/div[1]/div[1]/a/img"
+    },
+    {
+        "type": "id",
+        "attribute": "navigation",
+        "xpath": "//html/body/div/div[1]/div[2]"
+    },
+    {
+        "type": "id",
+        "attribute": "mainNav",
+        "xpath": "//html/body/div/div[1]/div[2]/div[1]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul/li[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Degal\u0173 kainos",
+        "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul/li[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul/li[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Statistika",
+        "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul/li[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul/li[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Straipsniai",
+        "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul/li[3]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul/li[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "Apie mus",
+        "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul/li[4]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul/li[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "Bendradarbiavimas",
+        "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul/li[5]/a"
+    },
+    {
+        "type": "id",
+        "attribute": "secNav",
+        "xpath": "//html/body/div/div[1]/div[2]/div[2]"
+    },
+    {
+        "type": "id",
+        "attribute": "secLeft",
+        "xpath": "//html/body/div/div[1]/div[2]/div[2]/div[1]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[1]/div[2]/div[2]/ul"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[1]/div[2]/div[2]/ul/li[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Degal\u0173 kainos Lietuvoje",
+        "xpath": "//html/body/div/div[1]/div[2]/div[2]/ul/li[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[1]/div[2]/div[2]/ul/li[2]"
+    },
+    {
+        "type": "text",
+        "attribute": " | Ma\u017eiausios kainos Lietuvoje",
+        "xpath": "//html/body/div/div[1]/div[2]/div[2]/ul/li[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[1]/div[2]/div[2]/ul/li[3]"
+    },
+    {
+        "type": "text",
+        "attribute": " | Degal\u0173 kainos Europoje",
+        "xpath": "//html/body/div/div[1]/div[2]/div[2]/ul/li[3]/a"
+    },
+    {
+        "type": "id",
+        "attribute": "my_anns_button",
+        "xpath": "//html/body/div/div[1]/div[2]/div[2]/ul/li[4]"
+    },
+    {
+        "type": "text",
+        "attribute": " | Mano degalin\u0117s",
+        "xpath": "//html/body/div/div[1]/div[2]/div[2]/ul/li[4]/a"
+    },
+    {
+        "type": "id",
+        "attribute": "secRight",
+        "xpath": "//html/body/div/div[1]/div[2]/div[2]/div[2]"
+    },
+    {
+        "type": "class",
+        "attribute": "clear",
+        "xpath": "//html/body/div/div[1]/div[2]/div[2]/div[3]"
+    },
+    {
+        "type": "class",
+        "attribute": "clear",
+        "xpath": "//html/body/div/div[1]/div[3]"
+    },
+    {
+        "type": "id",
+        "attribute": "wrap",
+        "xpath": "//html/body/div/div[2]"
+    },
+    {
+        "type": "id",
+        "attribute": "leftSide",
+        "xpath": "//html/body/div/div[2]/div[1]"
+    },
+    {
+        "type": "class",
+        "attribute": "left",
+        "xpath": "//html/body/div/div[2]/div[1]/div[1]"
+    },
+    {
+        "type": "href",
+        "attribute": "http://www.degalukainos.lt",
+        "xpath": "//html/body/div/div[2]/div[1]/div[1]/plusone"
+    },
+    {
+        "type": "class",
+        "attribute": "left",
+        "xpath": "//html/body/div/div[2]/div[1]/div[2]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[1]/div[2]/iframe"
+    },
+    {
+        "type": "class",
+        "attribute": "clear",
+        "xpath": "//html/body/div/div[2]/div[1]/div[3]"
+    },
+    {
+        "type": "class",
+        "attribute": "openSide",
+        "xpath": "//html/body/div/div[2]/div[1]/div[4]"
+    },
+    {
+        "type": "class",
+        "attribute": "sideName",
+        "xpath": "//html/body/div/div[2]/div[1]/div[4]/div[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Reklama",
+        "xpath": "//html/body/div/div[2]/div[1]/div[4]/div[1]/h2"
+    },
+    {
+        "type": "class",
+        "attribute": "sideCont2",
+        "xpath": "//html/body/div/div[2]/div[1]/div[4]/div[2]"
+    },
+    {
+        "type": "class",
+        "attribute": "adsbygoogle",
+        "xpath": "//html/body/div/div[2]/div[1]/div[4]/div[2]/ins"
+    },
+    {
+        "type": "class",
+        "attribute": "sideBottom",
+        "xpath": "//html/body/div/div[2]/div[1]/div[4]/div[3]"
+    },
+    {
+        "type": "class",
+        "attribute": "openSide",
+        "xpath": "//html/body/div/div[2]/div[1]/div[5]"
+    },
+    {
+        "type": "class",
+        "attribute": "sideName",
+        "xpath": "//html/body/div/div[2]/div[1]/div[5]/div[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Draugai",
+        "xpath": "//html/body/div/div[2]/div[1]/div[5]/div[1]/h2"
+    },
+    {
+        "type": "class",
+        "attribute": "sideCont2 text link_color friends_links",
+        "xpath": "//html/body/div/div[2]/div[1]/div[5]/div[2]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[1]/div[5]/div[2]/ul"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[1]/div[5]/div[2]/ul/li"
+    },
+    {
+        "type": "text",
+        "attribute": "Butanas \u2013 prek\u0117s dujoms",
+        "xpath": "//html/body/div/div[2]/div[1]/div[5]/div[2]/ul/li/a"
+    },
+    {
+        "type": "class",
+        "attribute": "sideBottom",
+        "xpath": "//html/body/div/div[2]/div[1]/div[5]/div[3]"
+    },
+    {
+        "type": "id",
+        "attribute": "mainContent",
+        "xpath": "//html/body/div/div[2]/div[2]"
+    },
+    {
+        "type": "id",
+        "attribute": "cont",
+        "xpath": "//html/body/div/div[2]/div[2]/div"
+    },
+    {
+        "type": "id",
+        "attribute": "filtering",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form"
+    },
+    {
+        "type": "id",
+        "attribute": "sort_holder",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/input"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/br"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div"
+    },
+    {
+        "type": "text",
+        "attribute": "Kuro kainos degalin\u0117se",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/h1"
+    },
+    {
+        "type": "class",
+        "attribute": "text",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div"
+    },
+    {
+        "type": "class",
+        "attribute": "filter_block",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Miestas",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[1]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Degalini\u0173 tinklas",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[1]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Data",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[1]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Adresas",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[1]/td[4]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[1]/td[5]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]"
+    },
+    {
+        "type": "class",
+        "attribute": "fields",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]"
+    },
+    {
+        "type": "id",
+        "attribute": "city",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select"
+    },
+    {
+        "type": "text",
+        "attribute": "-Visi miestai-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Vilnius",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kaunas",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Klaip\u0117da",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "\u0160iauliai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "Panev\u0117\u017eys",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "Akmen\u0117",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "Alytus",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "Anyk\u0161\u010diai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[9]"
+    },
+    {
+        "type": "text",
+        "attribute": "Bir\u017eai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[10]"
+    },
+    {
+        "type": "text",
+        "attribute": "Druskininkai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[11]"
+    },
+    {
+        "type": "text",
+        "attribute": "Elektr\u0117nai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[12]"
+    },
+    {
+        "type": "text",
+        "attribute": "Garg\u017edai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[13]"
+    },
+    {
+        "type": "text",
+        "attribute": "Grigi\u0161k\u0117s",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[14]"
+    },
+    {
+        "type": "text",
+        "attribute": "Ignalina",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[15]"
+    },
+    {
+        "type": "text",
+        "attribute": "Jieznas",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[16]"
+    },
+    {
+        "type": "text",
+        "attribute": "Jonava",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[17]"
+    },
+    {
+        "type": "text",
+        "attribute": "Joni\u0161kis",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[18]"
+    },
+    {
+        "type": "text",
+        "attribute": "Jurbarkas",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[19]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kai\u0161iadorys",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[20]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kalvarija",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[21]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kazl\u0173 R\u016bda",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[22]"
+    },
+    {
+        "type": "text",
+        "attribute": "K\u0117dainiai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[23]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kelm\u0117",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[24]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kretinga",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[25]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kretingal\u0117",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[26]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kry\u017ekalnis",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[27]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kur\u0161\u0117nai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[28]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kybartai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[29]"
+    },
+    {
+        "type": "text",
+        "attribute": "Lazdijai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[30]"
+    },
+    {
+        "type": "text",
+        "attribute": "Leipalingis",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[31]"
+    },
+    {
+        "type": "text",
+        "attribute": "Marijampol\u0117",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[32]"
+    },
+    {
+        "type": "text",
+        "attribute": "Ma\u017eeikiai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[33]"
+    },
+    {
+        "type": "text",
+        "attribute": "Pabrad\u0117",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[34]"
+    },
+    {
+        "type": "text",
+        "attribute": "Pakruojis",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[35]"
+    },
+    {
+        "type": "text",
+        "attribute": "Palanga",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[36]"
+    },
+    {
+        "type": "text",
+        "attribute": "Pasvalys",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[37]"
+    },
+    {
+        "type": "text",
+        "attribute": "Plung\u0117",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[38]"
+    },
+    {
+        "type": "text",
+        "attribute": "Priekul\u0117",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[39]"
+    },
+    {
+        "type": "text",
+        "attribute": "Prienai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[40]"
+    },
+    {
+        "type": "text",
+        "attribute": "Radvili\u0161kis",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[41]"
+    },
+    {
+        "type": "text",
+        "attribute": "Raseiniai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[42]"
+    },
+    {
+        "type": "text",
+        "attribute": "Roki\u0161kis",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[43]"
+    },
+    {
+        "type": "text",
+        "attribute": "\u0160akiai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[44]"
+    },
+    {
+        "type": "text",
+        "attribute": "\u0160al\u010dininkai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[45]"
+    },
+    {
+        "type": "text",
+        "attribute": "\u0160eduva",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[46]"
+    },
+    {
+        "type": "text",
+        "attribute": "\u0160ilal\u0117",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[47]"
+    },
+    {
+        "type": "text",
+        "attribute": "\u0160ilut\u0117",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[48]"
+    },
+    {
+        "type": "text",
+        "attribute": "Skuodas",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[49]"
+    },
+    {
+        "type": "text",
+        "attribute": "Taurag\u0117",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[50]"
+    },
+    {
+        "type": "text",
+        "attribute": "Tel\u0161iai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[51]"
+    },
+    {
+        "type": "text",
+        "attribute": "Trakai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[52]"
+    },
+    {
+        "type": "text",
+        "attribute": "Ukmerg\u0117",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[53]"
+    },
+    {
+        "type": "text",
+        "attribute": "Utena",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[54]"
+    },
+    {
+        "type": "text",
+        "attribute": "Var\u0117na",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[55]"
+    },
+    {
+        "type": "text",
+        "attribute": "Vievis",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[56]"
+    },
+    {
+        "type": "text",
+        "attribute": "Vilkavi\u0161kis",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[57]"
+    },
+    {
+        "type": "text",
+        "attribute": "Visaginas",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[58]"
+    },
+    {
+        "type": "text",
+        "attribute": "Zapy\u0161kis",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[59]"
+    },
+    {
+        "type": "class",
+        "attribute": "fields",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]"
+    },
+    {
+        "type": "id",
+        "attribute": "network",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select"
+    },
+    {
+        "type": "text",
+        "attribute": "Visos degalin\u0117s",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Saurida (27)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Jozita (11)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Statoil (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "Lukoil (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "Ventus (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "Orlen (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "Vakoil (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "Alau\u0161a (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[9]"
+    },
+    {
+        "type": "text",
+        "attribute": "Sensus  (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[10]"
+    },
+    {
+        "type": "text",
+        "attribute": "Regusa (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[11]"
+    },
+    {
+        "type": "text",
+        "attribute": "Apoil (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[12]"
+    },
+    {
+        "type": "text",
+        "attribute": "Egas (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[13]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kvistija (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[14]"
+    },
+    {
+        "type": "text",
+        "attribute": "Ecoil (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[15]"
+    },
+    {
+        "type": "text",
+        "attribute": "Rotada (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[16]"
+    },
+    {
+        "type": "text",
+        "attribute": "Videra (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[17]"
+    },
+    {
+        "type": "text",
+        "attribute": "Skirnuva (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[18]"
+    },
+    {
+        "type": "text",
+        "attribute": "Neste (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[19]"
+    },
+    {
+        "type": "text",
+        "attribute": "Cauda (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[20]"
+    },
+    {
+        "type": "text",
+        "attribute": "Milda (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[21]"
+    },
+    {
+        "type": "text",
+        "attribute": "Baltic Petroleum (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[22]"
+    },
+    {
+        "type": "text",
+        "attribute": "Luktarna (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[23]"
+    },
+    {
+        "type": "text",
+        "attribute": "Takuras (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[24]"
+    },
+    {
+        "type": "text",
+        "attribute": "Emsi (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[25]"
+    },
+    {
+        "type": "text",
+        "attribute": "Metano duj\u0173 sistemos (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[26]"
+    },
+    {
+        "type": "text",
+        "attribute": "Grifskana (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[27]"
+    },
+    {
+        "type": "text",
+        "attribute": "3-4 (0)",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[28]"
+    },
+    {
+        "type": "class",
+        "attribute": "fields",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[3]"
+    },
+    {
+        "type": "id",
+        "attribute": "data",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[3]/input"
+    },
+    {
+        "type": "class",
+        "attribute": "fields",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[4]"
+    },
+    {
+        "type": "id",
+        "attribute": "text",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[4]/input"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[5]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[5]/input"
+    },
+    {
+        "type": "class",
+        "attribute": "news",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]"
+    },
+    {
+        "type": "class",
+        "attribute": "paging",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul/li[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "1",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul/li[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul/li[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "2",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul/li[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul/li[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kitas",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul/li[3]/a"
+    },
+    {
+        "type": "id",
+        "attribute": "kainos",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table"
+    },
+    {
+        "type": "id",
+        "attribute": "labels",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Operatorius",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Miestas",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Adresas",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "A98",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "A95",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "D",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "D\u017e",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "E85",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "Dujos",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[9]"
+    },
+    {
+        "type": "text",
+        "attribute": "Pa\u017eym\u0117ti",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[10]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Jozita",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kaunas",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Garliava",
+        "xpath": " Vytauto  g. 111A",
+        "null": [
+            "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[3]/a"
+        ]
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.670",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.360",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "0.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_783",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_783",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Saurida",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "\u0160ilal\u0117",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Rytinio Kelio g. 19",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[3]/a"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.670",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.670",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.350",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "0.690",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_650",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_650",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Saurida",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "\u0160iauliai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Vilniaus g. 373a",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[3]/a"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.690",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.670",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.370",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "0.670",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_652",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_652",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Jozita",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kaunas",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kur\u0161i\u0173 g. 13A",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[3]/a"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.670",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.360",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "0.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_773",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_773",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Jozita",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kaunas",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Jonavos g. 51",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[3]/a"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.670",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.360",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "0.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_772",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_772",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Jozita",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Vilnius",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Parko g. 69A",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[3]/a"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.670",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "0.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_782",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_782",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Jozita",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Klaip\u0117da",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Klip\u0161\u010diai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[3]/a"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.670",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.360",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "0.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_742",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_742",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Jozita",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "\u0160iauliai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Giruli\u0173 g. 1",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[3]/a"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.670",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.360",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "0.670",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_784",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_784",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Jozita",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "\u0160iauliai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Architekt\u0173 g. 80",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[3]/a"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.670",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.360",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "0.670",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_785",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_785",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Jozita",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Pakruojis",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kuosi\u0161kiai",
+        "xpath": " Kuosi\u0161ki\u0173 k. 4",
+        "null": [
+            "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[3]/a"
+        ]
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.670",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.360",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "0.670",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_787",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_787",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Jozita",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Raseiniai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Maironio g. 78b",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[3]/a"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.670",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.360",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "0.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_676",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_676",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Jozita",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "\u0160ilal\u0117",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "\u0160oli\u0173 k.",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[3]/a"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.670",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.360",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "0.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_677",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_677",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Jozita",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "\u0160ilut\u0117",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Traks\u0117d\u017eiai",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[3]/a"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.670",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.360",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "0.670",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_743",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_743",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Saurida",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kaunas",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Babt\u0173 k.",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[3]/a"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.390",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "0.690",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_643",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_643",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Saurida",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kaunas",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "V. Kr\u0117v\u0117s pr. 116",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[3]/a"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.700",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "0.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_644",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_644",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Saurida",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Alytus",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Pramon\u0117s g. 5",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[3]/a"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.710",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.690",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.370",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_636",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_636",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Saurida",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Alytus",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Mi\u0161kinink\u0173 g. 7",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[3]/a"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.710",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.690",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.370",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_635",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_635",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Saurida",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kai\u0161iadorys",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Rum\u0161i\u0161k\u0117s",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[3]/a"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.700",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.700",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.410",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "0.690",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_776",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_776",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Saurida",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Vilnius",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "\u010cekoni\u0161ki\u0173 km.",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[3]/a"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.710",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.710",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_633",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_633",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "Saurida",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Radvili\u0161kis",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Gedimino g. 50c",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[3]/a"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.710",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[5]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.710",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[6]"
+    },
+    {
+        "type": "text",
+        "attribute": "1.430",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[7]"
+    },
+    {
+        "type": "text",
+        "attribute": "-",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[8]"
+    },
+    {
+        "type": "text",
+        "attribute": "0.680",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[9]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]"
+    },
+    {
+        "type": "id",
+        "attribute": "station_649",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[1]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[1]/img"
+    },
+    {
+        "type": "id",
+        "attribute": "station_marked_649",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[2]"
+    },
+    {
+        "type": "alt_img",
+        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[2]/img"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[2]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]"
+    },
+    {
+        "type": "class",
+        "attribute": "paging",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul/li[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "1",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul/li[1]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul/li[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "2",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul/li[2]/a"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul/li[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kitas",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul/li[3]/a"
+    },
+    {
+        "type": "class",
+        "attribute": "more_stats left",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Kain\u0173 poky\u010diai bei statistika:",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/strong"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/br[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "A95 benzino kainos",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/a[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "A98 benzino kainos",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/a[2]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/br[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "Dyzelino kainos",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/a[3]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/br[3]"
+    },
+    {
+        "type": "text",
+        "attribute": "Bioetanolio E85 kainos",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/a[4]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/br[4]"
+    },
+    {
+        "type": "text",
+        "attribute": "Duj\u0173 kainos",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/a[5]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/br[5]"
+    },
+    {
+        "type": "class",
+        "attribute": "right",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[4]"
+    },
+    {
+        "type": "class",
+        "attribute": "adsbygoogle",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[4]/ins"
+    },
+    {
+        "type": "class",
+        "attribute": "clear",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[5]"
+    },
+    {
+        "type": "class",
+        "attribute": "news right-align",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[6]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[6]/br[1]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[6]/br[2]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[6]/br[3]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[6]/br[4]"
+    },
+    {
+        "type": "class",
+        "attribute": "clear",
+        "xpath": "//html/body/div/div[2]/div[3]"
+    },
+    {
+        "type": "id",
+        "attribute": "bottom",
+        "xpath": "//html/body/div/div[3]"
+    },
+    {
+        "type": "id",
+        "attribute": "footer",
+        "xpath": "//html/body/div/div[4]"
+    },
+    {
+        "type": "id",
+        "attribute": "footInfo",
+        "xpath": "//html/body/div/div[4]/div[1]"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[4]/div[1]/p"
+    },
+    {
+        "type": "id",
+        "attribute": "footCopy",
+        "xpath": "//html/body/div/div[4]/div[2]"
+    },
+    {
+        "type": "text",
+        "attribute": "\u00a9 ",
+        "xpath": "//html/body/div/div[4]/div[2]/p[1]"
+    },
+    {
+        "type": "text",
+        "attribute": "degalukainos.lt",
+        "xpath": "//html/body/div/div[4]/div[2]/p[1]/b"
+    },
+    {
+        "type": "None",
+        "attribute": "",
+        "xpath": "//html/body/div/div[4]/div[2]/p[2]"
+    },
+    {
+        "type": "class",
+        "attribute": "contacts_white",
+        "xpath": "//html/body/div/div[4]/div[2]/p[2]/span"
+    },
+    {
+        "type": "class",
+        "attribute": "clear",
+        "xpath": "//html/body/div/div[4]/div[3]"
+    }
+]
