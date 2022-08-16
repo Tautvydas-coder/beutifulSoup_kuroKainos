@@ -2,7 +2,6 @@ from bs4 import BeautifulSoup
 from lxml import html, etree
 from page_info import page
 
-
 # --------SOUP-----------
 # soup = BeautifulSoup(page.content, 'html.parser')
 # results = soup.find(class_='news').find('table', id="kainos").find_all('td')
@@ -30,7 +29,9 @@ from page_info import page
 # elementr = root.xpath('//html/body/div[1]/div[2]/div[2]/div/form/div/div[2]/table')
 # print(elementr[0].attrib['id'])
 # --------------------------------
-
+# TODO 1) get id values (id='footCopy') where it is possible
+# TODO 2) get href values (href=''http://www.degalukainos.lt/degalu-kainu-statistika?fuel_id=5) where it is possible
+# TODO 3) JSON format like {'id': 'footCopy'} : /html/body/div/div[4]/div[2]s
 
 def fetch_page_content():
     page_content = html.fromstring(page.content)
@@ -69,6 +70,8 @@ def write_to_file(results, tree):
                     file.write("Text: " + content_text)
                 file.write("," + "/" + xpath + "\n")
 
+def write_to_json():
+    pass
 
 if __name__ == '__main__':
     root = fetch_page_content()
