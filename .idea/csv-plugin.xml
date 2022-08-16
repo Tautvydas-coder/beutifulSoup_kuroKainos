@@ -3,7 +3,7 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\degaluKainos_xpaths.csv">
+        <entry key="\outputs\degaluKainos_xpaths.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

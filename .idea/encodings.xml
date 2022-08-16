@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/degaluKainos_xpaths.csv" charset="windows-1257" />
     <file url="file://$PROJECT_DIR$/degaluKainos_xpaths.json" charset="windows-1257" />
+    <file url="file://$PROJECT_DIR$/outputs/Kainos_xpaths.json" charset="windows-1257" />
+    <file url="file://$PROJECT_DIR$/outputs/Kainos_xpaths.json" charset="windows-1257" />
+    <file url="file://$PROJECT_DIR$/outputs/degaluKainos_xpaths.csv" charset="windows-1257" />
+    <file url="file://$PROJECT_DIR$/outputs/degaluKainos_xpaths.csv" charset="windows-1257" />
     <file url="file://$PROJECT_DIR$/xpaths.csv" charset="windows-1257" />
   </component>
 </project>
