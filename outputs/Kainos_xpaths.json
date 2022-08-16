@@ -15,7 +15,7 @@
         "xpath": "//html/body/div/div[1]/div[1]/a"
     },
     {
-        "type": "alt_img",
+        "type": "alt",
         "attribute": "logo",
         "xpath": "//html/body/div/div[1]/div[1]/a/img"
     },
@@ -30,22 +30,22 @@
         "xpath": "//html/body/div/div[1]/div[2]/div[1]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul/li[1]"
     },
     {
         "type": "text",
-        "attribute": "Degal\u0173 kainos",
+        "attribute": "Degalø kainos",
         "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul/li[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul/li[2]"
     },
@@ -55,7 +55,7 @@
         "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul/li[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul/li[3]"
     },
@@ -65,7 +65,7 @@
         "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul/li[3]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul/li[4]"
     },
@@ -75,7 +75,7 @@
         "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul/li[4]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[1]/div[2]/div[1]/ul/li[5]"
     },
@@ -95,38 +95,38 @@
         "xpath": "//html/body/div/div[1]/div[2]/div[2]/div[1]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[1]/div[2]/div[2]/ul"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[1]/div[2]/div[2]/ul/li[1]"
     },
     {
         "type": "text",
-        "attribute": "Degal\u0173 kainos Lietuvoje",
+        "attribute": "Degalø kainos Lietuvoje",
         "xpath": "//html/body/div/div[1]/div[2]/div[2]/ul/li[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[1]/div[2]/div[2]/ul/li[2]"
     },
     {
         "type": "text",
-        "attribute": " | Ma\u017eiausios kainos Lietuvoje",
+        "attribute": " | Maþiausios kainos Lietuvoje",
         "xpath": "//html/body/div/div[1]/div[2]/div[2]/ul/li[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[1]/div[2]/div[2]/ul/li[3]"
     },
     {
         "type": "text",
-        "attribute": " | Degal\u0173 kainos Europoje",
+        "attribute": " | Degalø kainos Europoje",
         "xpath": "//html/body/div/div[1]/div[2]/div[2]/ul/li[3]/a"
     },
     {
@@ -136,7 +136,7 @@
     },
     {
         "type": "text",
-        "attribute": " | Mano degalin\u0117s",
+        "attribute": " | Mano degalinës",
         "xpath": "//html/body/div/div[1]/div[2]/div[2]/ul/li[4]/a"
     },
     {
@@ -180,7 +180,7 @@
         "xpath": "//html/body/div/div[2]/div[1]/div[2]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[1]/div[2]/iframe"
     },
@@ -240,18 +240,18 @@
         "xpath": "//html/body/div/div[2]/div[1]/div[5]/div[2]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[1]/div[5]/div[2]/ul"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[1]/div[5]/div[2]/ul/li"
     },
     {
         "type": "text",
-        "attribute": "Butanas \u2013 prek\u0117s dujoms",
+        "attribute": "Butanas – prekës dujoms",
         "xpath": "//html/body/div/div[2]/div[1]/div[5]/div[2]/ul/li/a"
     },
     {
@@ -280,18 +280,18 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/input"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/br"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div"
     },
     {
         "type": "text",
-        "attribute": "Kuro kainos degalin\u0117se",
+        "attribute": "Kuro kainos degalinëse",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/h1"
     },
     {
@@ -300,7 +300,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div"
     },
@@ -310,7 +310,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[1]"
     },
@@ -321,7 +321,7 @@
     },
     {
         "type": "text",
-        "attribute": "Degalini\u0173 tinklas",
+        "attribute": "Degaliniø tinklas",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[1]/td[2]"
     },
     {
@@ -335,12 +335,12 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[1]/td[4]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[1]/td[5]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]"
     },
@@ -371,22 +371,22 @@
     },
     {
         "type": "text",
-        "attribute": "Klaip\u0117da",
+        "attribute": "Klaipëda",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[4]"
     },
     {
         "type": "text",
-        "attribute": "\u0160iauliai",
+        "attribute": "Ðiauliai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[5]"
     },
     {
         "type": "text",
-        "attribute": "Panev\u0117\u017eys",
+        "attribute": "Panevëþys",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[6]"
     },
     {
         "type": "text",
-        "attribute": "Akmen\u0117",
+        "attribute": "Akmenë",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[7]"
     },
     {
@@ -396,12 +396,12 @@
     },
     {
         "type": "text",
-        "attribute": "Anyk\u0161\u010diai",
+        "attribute": "Anykðèiai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[9]"
     },
     {
         "type": "text",
-        "attribute": "Bir\u017eai",
+        "attribute": "Birþai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[10]"
     },
     {
@@ -411,17 +411,17 @@
     },
     {
         "type": "text",
-        "attribute": "Elektr\u0117nai",
+        "attribute": "Elektrënai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[12]"
     },
     {
         "type": "text",
-        "attribute": "Garg\u017edai",
+        "attribute": "Gargþdai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[13]"
     },
     {
         "type": "text",
-        "attribute": "Grigi\u0161k\u0117s",
+        "attribute": "Grigiðkës",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[14]"
     },
     {
@@ -441,7 +441,7 @@
     },
     {
         "type": "text",
-        "attribute": "Joni\u0161kis",
+        "attribute": "Joniðkis",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[18]"
     },
     {
@@ -451,7 +451,7 @@
     },
     {
         "type": "text",
-        "attribute": "Kai\u0161iadorys",
+        "attribute": "Kaiðiadorys",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[20]"
     },
     {
@@ -461,17 +461,17 @@
     },
     {
         "type": "text",
-        "attribute": "Kazl\u0173 R\u016bda",
+        "attribute": "Kazlø Rûda",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[22]"
     },
     {
         "type": "text",
-        "attribute": "K\u0117dainiai",
+        "attribute": "Këdainiai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[23]"
     },
     {
         "type": "text",
-        "attribute": "Kelm\u0117",
+        "attribute": "Kelmë",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[24]"
     },
     {
@@ -481,17 +481,17 @@
     },
     {
         "type": "text",
-        "attribute": "Kretingal\u0117",
+        "attribute": "Kretingalë",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[26]"
     },
     {
         "type": "text",
-        "attribute": "Kry\u017ekalnis",
+        "attribute": "Kryþkalnis",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[27]"
     },
     {
         "type": "text",
-        "attribute": "Kur\u0161\u0117nai",
+        "attribute": "Kurðënai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[28]"
     },
     {
@@ -511,17 +511,17 @@
     },
     {
         "type": "text",
-        "attribute": "Marijampol\u0117",
+        "attribute": "Marijampolë",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[32]"
     },
     {
         "type": "text",
-        "attribute": "Ma\u017eeikiai",
+        "attribute": "Maþeikiai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[33]"
     },
     {
         "type": "text",
-        "attribute": "Pabrad\u0117",
+        "attribute": "Pabradë",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[34]"
     },
     {
@@ -541,12 +541,12 @@
     },
     {
         "type": "text",
-        "attribute": "Plung\u0117",
+        "attribute": "Plungë",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[38]"
     },
     {
         "type": "text",
-        "attribute": "Priekul\u0117",
+        "attribute": "Priekulë",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[39]"
     },
     {
@@ -556,7 +556,7 @@
     },
     {
         "type": "text",
-        "attribute": "Radvili\u0161kis",
+        "attribute": "Radviliðkis",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[41]"
     },
     {
@@ -566,32 +566,32 @@
     },
     {
         "type": "text",
-        "attribute": "Roki\u0161kis",
+        "attribute": "Rokiðkis",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[43]"
     },
     {
         "type": "text",
-        "attribute": "\u0160akiai",
+        "attribute": "Ðakiai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[44]"
     },
     {
         "type": "text",
-        "attribute": "\u0160al\u010dininkai",
+        "attribute": "Ðalèininkai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[45]"
     },
     {
         "type": "text",
-        "attribute": "\u0160eduva",
+        "attribute": "Ðeduva",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[46]"
     },
     {
         "type": "text",
-        "attribute": "\u0160ilal\u0117",
+        "attribute": "Ðilalë",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[47]"
     },
     {
         "type": "text",
-        "attribute": "\u0160ilut\u0117",
+        "attribute": "Ðilutë",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[48]"
     },
     {
@@ -601,12 +601,12 @@
     },
     {
         "type": "text",
-        "attribute": "Taurag\u0117",
+        "attribute": "Tauragë",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[50]"
     },
     {
         "type": "text",
-        "attribute": "Tel\u0161iai",
+        "attribute": "Telðiai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[51]"
     },
     {
@@ -616,7 +616,7 @@
     },
     {
         "type": "text",
-        "attribute": "Ukmerg\u0117",
+        "attribute": "Ukmergë",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[53]"
     },
     {
@@ -626,7 +626,7 @@
     },
     {
         "type": "text",
-        "attribute": "Var\u0117na",
+        "attribute": "Varëna",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[55]"
     },
     {
@@ -636,7 +636,7 @@
     },
     {
         "type": "text",
-        "attribute": "Vilkavi\u0161kis",
+        "attribute": "Vilkaviðkis",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[57]"
     },
     {
@@ -646,7 +646,7 @@
     },
     {
         "type": "text",
-        "attribute": "Zapy\u0161kis",
+        "attribute": "Zapyðkis",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[1]/select/option[59]"
     },
     {
@@ -661,7 +661,7 @@
     },
     {
         "type": "text",
-        "attribute": "Visos degalin\u0117s",
+        "attribute": "Visos degalinës",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[1]"
     },
     {
@@ -701,7 +701,7 @@
     },
     {
         "type": "text",
-        "attribute": "Alau\u0161a (0)",
+        "attribute": "Alauða (0)",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[9]"
     },
     {
@@ -786,7 +786,7 @@
     },
     {
         "type": "text",
-        "attribute": "Metano duj\u0173 sistemos (0)",
+        "attribute": "Metano dujø sistemos (0)",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[2]/select/option[26]"
     },
     {
@@ -820,12 +820,12 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[4]/input"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[5]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[1]/div/table/tr[2]/td[5]/input"
     },
@@ -835,7 +835,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]"
     },
@@ -845,7 +845,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul/li[1]"
     },
@@ -855,7 +855,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul/li[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul/li[2]"
     },
@@ -865,7 +865,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul/li[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[1]/ul/li[3]"
     },
@@ -916,7 +916,7 @@
     },
     {
         "type": "text",
-        "attribute": "D\u017e",
+        "attribute": "Dþ",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[7]"
     },
     {
@@ -931,16 +931,16 @@
     },
     {
         "type": "text",
-        "attribute": "Pa\u017eym\u0117ti",
+        "attribute": "Paþymëti",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[1]/td[10]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[1]"
     },
@@ -950,7 +950,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[2]"
     },
@@ -960,7 +960,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[3]"
     },
@@ -1003,7 +1003,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]"
     },
@@ -1013,8 +1013,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[1]/img"
     },
     {
@@ -1023,17 +1023,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[1]"
     },
@@ -1043,17 +1043,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[2]"
     },
     {
         "type": "text",
-        "attribute": "\u0160ilal\u0117",
+        "attribute": "Ðilalë",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[3]"
     },
@@ -1093,7 +1093,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]"
     },
@@ -1103,8 +1103,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[1]/img"
     },
     {
@@ -1113,17 +1113,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[1]"
     },
@@ -1133,17 +1133,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[2]"
     },
     {
         "type": "text",
-        "attribute": "\u0160iauliai",
+        "attribute": "Ðiauliai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[3]"
     },
@@ -1183,7 +1183,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]"
     },
@@ -1193,8 +1193,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[1]/img"
     },
     {
@@ -1203,17 +1203,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[1]"
     },
@@ -1223,7 +1223,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[2]"
     },
@@ -1233,13 +1233,13 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[3]"
     },
     {
         "type": "text",
-        "attribute": "Kur\u0161i\u0173 g. 13A",
+        "attribute": "Kurðiø g. 13A",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[3]/a"
     },
     {
@@ -1273,7 +1273,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]"
     },
@@ -1283,8 +1283,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[1]/img"
     },
     {
@@ -1293,17 +1293,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[1]"
     },
@@ -1313,7 +1313,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[2]"
     },
@@ -1323,7 +1323,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[3]"
     },
@@ -1363,7 +1363,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]"
     },
@@ -1373,8 +1373,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[1]/img"
     },
     {
@@ -1383,17 +1383,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[1]"
     },
@@ -1403,7 +1403,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[2]"
     },
@@ -1413,7 +1413,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[3]"
     },
@@ -1453,7 +1453,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]"
     },
@@ -1463,8 +1463,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[1]/img"
     },
     {
@@ -1473,17 +1473,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[1]"
     },
@@ -1493,23 +1493,23 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[2]"
     },
     {
         "type": "text",
-        "attribute": "Klaip\u0117da",
+        "attribute": "Klaipëda",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[3]"
     },
     {
         "type": "text",
-        "attribute": "Klip\u0161\u010diai",
+        "attribute": "Klipðèiai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[3]/a"
     },
     {
@@ -1543,7 +1543,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]"
     },
@@ -1553,8 +1553,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[1]/img"
     },
     {
@@ -1563,17 +1563,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[1]"
     },
@@ -1583,23 +1583,23 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[2]"
     },
     {
         "type": "text",
-        "attribute": "\u0160iauliai",
+        "attribute": "Ðiauliai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[3]"
     },
     {
         "type": "text",
-        "attribute": "Giruli\u0173 g. 1",
+        "attribute": "Giruliø g. 1",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[3]/a"
     },
     {
@@ -1633,7 +1633,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]"
     },
@@ -1643,8 +1643,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[1]/img"
     },
     {
@@ -1653,17 +1653,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[1]"
     },
@@ -1673,23 +1673,23 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[2]"
     },
     {
         "type": "text",
-        "attribute": "\u0160iauliai",
+        "attribute": "Ðiauliai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[3]"
     },
     {
         "type": "text",
-        "attribute": "Architekt\u0173 g. 80",
+        "attribute": "Architektø g. 80",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[3]/a"
     },
     {
@@ -1723,7 +1723,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]"
     },
@@ -1733,8 +1733,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[1]/img"
     },
     {
@@ -1743,17 +1743,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[1]"
     },
@@ -1763,7 +1763,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[2]"
     },
@@ -1773,14 +1773,14 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[3]"
     },
     {
         "type": "text",
-        "attribute": "Kuosi\u0161kiai",
-        "xpath": " Kuosi\u0161ki\u0173 k. 4",
+        "attribute": "Kuosiðkiai",
+        "xpath": " Kuosiðkiø k. 4",
         "null": [
             "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[3]/a"
         ]
@@ -1816,7 +1816,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]"
     },
@@ -1826,8 +1826,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[1]/img"
     },
     {
@@ -1836,17 +1836,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[1]"
     },
@@ -1856,7 +1856,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[2]"
     },
@@ -1866,7 +1866,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[3]"
     },
@@ -1906,7 +1906,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]"
     },
@@ -1916,8 +1916,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[1]/img"
     },
     {
@@ -1926,17 +1926,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[1]"
     },
@@ -1946,23 +1946,23 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[2]"
     },
     {
         "type": "text",
-        "attribute": "\u0160ilal\u0117",
+        "attribute": "Ðilalë",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[3]"
     },
     {
         "type": "text",
-        "attribute": "\u0160oli\u0173 k.",
+        "attribute": "Ðoliø k.",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[3]/a"
     },
     {
@@ -1996,7 +1996,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]"
     },
@@ -2006,8 +2006,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[1]/img"
     },
     {
@@ -2016,17 +2016,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[1]"
     },
@@ -2036,23 +2036,23 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[2]"
     },
     {
         "type": "text",
-        "attribute": "\u0160ilut\u0117",
+        "attribute": "Ðilutë",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[3]"
     },
     {
         "type": "text",
-        "attribute": "Traks\u0117d\u017eiai",
+        "attribute": "Traksëdþiai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[3]/a"
     },
     {
@@ -2086,7 +2086,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]"
     },
@@ -2096,8 +2096,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]/div[1]/img"
     },
     {
@@ -2106,17 +2106,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[1]"
     },
@@ -2126,7 +2126,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[2]"
     },
@@ -2136,13 +2136,13 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[3]"
     },
     {
         "type": "text",
-        "attribute": "Babt\u0173 k.",
+        "attribute": "Babtø k.",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[3]/a"
     },
     {
@@ -2176,7 +2176,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]"
     },
@@ -2186,8 +2186,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[1]/img"
     },
     {
@@ -2196,17 +2196,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[1]"
     },
@@ -2216,7 +2216,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[2]"
     },
@@ -2226,13 +2226,13 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[3]"
     },
     {
         "type": "text",
-        "attribute": "V. Kr\u0117v\u0117s pr. 116",
+        "attribute": "V. Krëvës pr. 116",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[3]/a"
     },
     {
@@ -2266,7 +2266,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]"
     },
@@ -2276,8 +2276,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[1]/img"
     },
     {
@@ -2286,17 +2286,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[1]"
     },
@@ -2306,7 +2306,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[2]"
     },
@@ -2316,13 +2316,13 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[3]"
     },
     {
         "type": "text",
-        "attribute": "Pramon\u0117s g. 5",
+        "attribute": "Pramonës g. 5",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[3]/a"
     },
     {
@@ -2356,7 +2356,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]"
     },
@@ -2366,8 +2366,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]/div[1]/img"
     },
     {
@@ -2376,17 +2376,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[1]"
     },
@@ -2396,7 +2396,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[2]"
     },
@@ -2406,13 +2406,13 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[3]"
     },
     {
         "type": "text",
-        "attribute": "Mi\u0161kinink\u0173 g. 7",
+        "attribute": "Miðkininkø g. 7",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[3]/a"
     },
     {
@@ -2446,7 +2446,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]"
     },
@@ -2456,8 +2456,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[1]/img"
     },
     {
@@ -2466,17 +2466,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[1]"
     },
@@ -2486,23 +2486,23 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[2]"
     },
     {
         "type": "text",
-        "attribute": "Kai\u0161iadorys",
+        "attribute": "Kaiðiadorys",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[3]"
     },
     {
         "type": "text",
-        "attribute": "Rum\u0161i\u0161k\u0117s",
+        "attribute": "Rumðiðkës",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[3]/a"
     },
     {
@@ -2536,7 +2536,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]"
     },
@@ -2546,8 +2546,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[1]/img"
     },
     {
@@ -2556,17 +2556,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[1]"
     },
@@ -2576,7 +2576,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[2]"
     },
@@ -2586,13 +2586,13 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[3]"
     },
     {
         "type": "text",
-        "attribute": "\u010cekoni\u0161ki\u0173 km.",
+        "attribute": "Èekoniðkiø km.",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[3]/a"
     },
     {
@@ -2626,7 +2626,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]"
     },
@@ -2636,8 +2636,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[1]/img"
     },
     {
@@ -2646,17 +2646,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[1]"
     },
@@ -2666,17 +2666,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[2]"
     },
     {
         "type": "text",
-        "attribute": "Radvili\u0161kis",
+        "attribute": "Radviliðkis",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[3]"
     },
@@ -2716,7 +2716,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[9]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]"
     },
@@ -2726,8 +2726,8 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[1]"
     },
     {
-        "type": "alt_img",
-        "attribute": "\u012etraukti \u012f savo degalini\u0173 s\u0105ra\u0161\u0105",
+        "type": "alt",
+        "attribute": "Átraukti á savo degaliniø sàraðà",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[1]/img"
     },
     {
@@ -2736,17 +2736,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[2]"
     },
     {
-        "type": "alt_img",
-        "attribute": "I\u0161braukti i\u0161 savo degalini\u0173 s\u0105ra\u0161o",
+        "type": "alt",
+        "attribute": "Iðbraukti ið savo degaliniø sàraðo",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[2]/img"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[2]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]"
     },
@@ -2756,7 +2756,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul/li[1]"
     },
@@ -2766,7 +2766,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul/li[1]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul/li[2]"
     },
@@ -2776,7 +2776,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul/li[2]/a"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]/ul/li[3]"
     },
@@ -2792,11 +2792,11 @@
     },
     {
         "type": "text",
-        "attribute": "Kain\u0173 poky\u010diai bei statistika:",
+        "attribute": "Kainø pokyèiai bei statistika:",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/strong"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/br[1]"
     },
@@ -2811,7 +2811,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/a[2]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/br[2]"
     },
@@ -2821,7 +2821,7 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/a[3]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/br[3]"
     },
@@ -2831,17 +2831,17 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/a[4]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/br[4]"
     },
     {
         "type": "text",
-        "attribute": "Duj\u0173 kainos",
+        "attribute": "Dujø kainos",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/a[5]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[3]/br[5]"
     },
@@ -2866,22 +2866,22 @@
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[6]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[6]/br[1]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[6]/br[2]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[6]/br[3]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[6]/br[4]"
     },
@@ -2906,7 +2906,7 @@
         "xpath": "//html/body/div/div[4]/div[1]"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[4]/div[1]/p"
     },
@@ -2917,7 +2917,7 @@
     },
     {
         "type": "text",
-        "attribute": "\u00a9 ",
+        "attribute": "© ",
         "xpath": "//html/body/div/div[4]/div[2]/p[1]"
     },
     {
@@ -2926,7 +2926,7 @@
         "xpath": "//html/body/div/div[4]/div[2]/p[1]/b"
     },
     {
-        "type": "None",
+        "type": "none",
         "attribute": "",
         "xpath": "//html/body/div/div[4]/div[2]/p[2]"
     },
