@@ -15,7 +15,7 @@ from page_info import page
 # print(soup)
 
 # -------LXML-----------
-# root=html.fromstring(page.content)
+root = html.fromstring(page.content)
 # element = root.xpath('/html/body/div[1]/div[4]/div[2]/p[1]')
 # elementy = ('//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[1]/img')
 # last=elementy.split('/')
@@ -23,11 +23,21 @@ from page_info import page
 # print(element)
 # print(element[0].text)
 # print(type(print(element[0].text)))
-# tree = root.getroottree()
+tree = root.getroottree()
+
+
 # results = root.xpath('/html/body/div//*')
 # dom = etree.HTML(str(root))
 # elementr = root.xpath('//html/body/div[1]/div[2]/div[2]/div/form/div/div[2]/table')
-# print(elementr[0].attrib['id'])
+# if elementr[0].get('class') is not None:
+#     print(elementr[0].get('class'))
+# else:
+#     print('no')
+#
+# if elementr[0].get('id') is True:
+#     print(elementr[0].get('id'))
+
+
 # --------------------------------
 # TODO 1) get id values (id='footCopy') where it is possible
 # TODO 2) get href values (href=''http://www.degalukainos.lt/degalu-kainu-statistika?fuel_id=5) where it is possible
@@ -57,21 +67,36 @@ def write_to_file(results, tree):
                 content_text = elements[0].text
                 last_elem = xpath.split('/')
                 if last_elem[-1] == 'img':
-                    elem_title = elements[0].attrib['alt']
+                    elem_title = elements[0].get('alt')
                     file.write("alt: " + elem_title)
                 elif last_elem[-1] == 'span':
-                    elem_title = elements[0].attrib['class']
+                    elem_title = elements[0].get('class')
                     file.write('Class name: ' + elem_title)
-                elif content_text is None:
-                    file.write("No info (type: None)")
-                elif content_text.isspace():
-                    file.write('Empty Label Element: ' + last_elem[-1])
-                else:
-                    file.write("Text: " + content_text)
+                elif content_text is None or content_text.isspace():
+                    print("xpath " + xpath)
+                    if elements[0].get('id') is not None:
+                        elem_id = elements[0].get('id')
+                        # file.write(elem_id)
+                        print("elem_id " + elem_id)
+                    elif elements[0].get('class') is not None:
+                        elem_class = elements[0].get('class')
+                        # file.write(elem_class)
+                        print("elem_class " + elem_class)
+                    else:
+                        print("no")
+                #         # elem_class = elements[0].get('class')
+                #         # file.write(elem_class)
+                #     file.write("No info (type: None)")
+                # elif content_text.isspace():
+                #     file.write('Empty Label Element: ' + last_elem[-1])
+                # else:
+                #     file.write("Text: " + content_text)
                 file.write("," + "/" + xpath + "\n")
+
 
 def write_to_json():
     pass
+
 
 if __name__ == '__main__':
     root = fetch_page_content()
