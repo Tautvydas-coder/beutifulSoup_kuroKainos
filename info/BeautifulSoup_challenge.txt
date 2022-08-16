@@ -1,16 +1,11 @@
-hi, there was long time for no any challenges - so the next one:
-
 1)Using the web parser: Beautiful Soup
 https://beautiful-soup-4.readthedocs.io/en/latest/code.launchpad.net/beautifulsoup/
-
 2)Create the whole page structure like the list:
 ELEMENT_NAME = {xpath}
 with all elements form the our last used page:
 http://www.degalukainos.lt/ 
 in separate file.
-
 3)Use just the main page
-
 Oleg additional comments:
 1)just elements from the body +
 2)"Text_element" = "xpath//....."  or "Label_element" = "xpath//..." +
@@ -18,3 +13,12 @@ where is the first part of the element should be represent the element as it is 
 3)All elements should be saved in the one file +
 4)for example from the attached picture:"'Kuro kainos degalinėse' - Text" = "//*[@id="filtering"]/div/h1" +-
 
+----------------------SECOND PART----------------------------------------------
+Based on your code - create the output file in JSON format which should contain:
+attribute name - which you get in the array
+root.xpath('/html/body/div//*')
+the xpath of it attribute
+In this case you will get just more understandable format - like:
+{'id': 'footCopy'} : /html/body/div/div[4]/div[2]
+or
+{'href': 'http://www.degalukainos.lt/degalu-kainu-statistika?fuel_id=5', 'title': ''} : /html/body/div/div[2]/div[2]/div/form/div/div[3]/a[5]
