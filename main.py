@@ -3,6 +3,7 @@ from lxml import html, etree
 from page_info import page
 import json
 
+
 # --------SOUP-----------
 # soup = BeautifulSoup(page.content, 'html.parser')
 # results = soup.find(class_='news').find('table', id="kainos").find_all('td')
@@ -38,7 +39,7 @@ import json
 
 
 # --------------------------------
-# TODO 3) JSON format like {'id': 'footCopy'} : /html/body/div/div[4]/div[2]s
+# TODO 3) JSON format something like {'id': 'footCopy'} : /html/body/div/div[4]/div[2]s
 
 def fetch_page_content():
     page_content = html.fromstring(page.content)
@@ -57,6 +58,7 @@ def fetch_web_element_info(root):
 
 def write_to_file(results, tree):
     with open('degaluKainos_xpaths.csv', 'w') as file:
+        file.write("type"+","+"attribution"+","+"xpath"+"\n")
         for result in results:
             xpath = tree.getpath(result)
             if not xpath.__contains__('script'):
@@ -65,21 +67,33 @@ def write_to_file(results, tree):
                 if content_text is None or content_text.isspace():
                     if elements[0].get('id') is not None:
                         atr_id = elements[0].get('id')
-                        file.write("id: " + atr_id)
+                        file.write("id"+"," + atr_id)
                     elif elements[0].get('alt') is not None:
                         atr_alt = elements[0].get('alt')
-                        file.write("alt_img: " + atr_alt)
+                        file.write("alt_img"+"," + atr_alt)
                     elif elements[0].get('class') is not None:
                         atr_class = elements[0].get('class')
-                        file.write("class: " + atr_class)
+                        file.write("class" +","+ atr_class)
                     elif elements[0].get('href') is not None:
                         atr_href = elements[0].get('href')
-                        file.write("href: " + atr_href)
+                        file.write("href"+"," + atr_href)
                     else:
-                        file.write("type: None")
+                        file.write("None"+","+"''")
                 else:
-                    file.write("text: " + content_text)
+                    file.write("text" +","+ content_text)
                 file.write("," + "/" + xpath + "\n")
+
+
+add = { "type":"ids",
+    "attribute":"foot",
+    "xpath":"//html/body/div/*" }
+
+attributes = [{"type": "type",
+              "type4": "attribute",
+              "xpath": "xpath"}]
+
+json_load = json.dumps(attributes, indent=4)
+print(json_load)
 
 
 def write_to_json(results, tree):
@@ -114,7 +128,7 @@ if __name__ == '__main__':
     tree = fetch_root_tree(root)
     results = fetch_web_element_info(root)
     write_to_file(results, tree)
-    write_to_json(results, tree)
+    # write_to_json(results, tree)
 
     # xpathr = [tree.getpath(result) for result in results]
     # print(xpathr)
