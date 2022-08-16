@@ -23,19 +23,12 @@ or
 
 My JSON style:
 {
-	"attribute":
-				[
-					{
-						"type":"id"/"class"/"href"/...
-						"id"/"class"/"href"/... :"XXX",
-						"xpath": "//html/body/div//*XXX",
-					}
-					{
-
-					}
-					...
-					{
-
-					}
-				]
+[
+    {
+        "type": "id",
+        "attribution": "header",
+        "xpath": "//html/body/div/div[1]"
+    },
+    {
+    },
 }
