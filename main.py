@@ -4,6 +4,7 @@ from page_info import page
 import json
 from resources.variables import *
 
+
 # --------SOUP-----------
 # soup = BeautifulSoup(page.content, 'html.parser')
 # results = soup.find(class_='news').find('table', id="kainos").find_all('td')
@@ -37,7 +38,6 @@ from resources.variables import *
 # if elementr[0].get('id') is True:
 #     print(elementr[0].get('id'))
 # --------------------------------
-
 
 
 def fetch_page_content():
@@ -79,7 +79,7 @@ def write_to_csv(results, tree, root):
                     else:
                         file.write("none" + "," + "")
                 else:
-                    file.write("text" + "," + content_text)
+                    file.write("text" + "," + content_text.replace(',',';'))
                 file.write("," + "/" + xpath + "\n")
 
 
