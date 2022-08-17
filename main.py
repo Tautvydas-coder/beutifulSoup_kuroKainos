@@ -79,18 +79,26 @@ def write_to_csv(results, tree, root):
                     else:
                         file.write("none" + "," + "")
                 else:
-                    file.write("text" + "," + content_text.replace(',',';'))
+                    file.write("text" + "," + content_text.replace(',', ';'))
                 file.write("," + "/" + xpath + "\n")
 
 
-def write_to_json():
+def fetch_json_list():
     json_array = []
     with open(csv_name, 'r') as csv_file:
         csv_reader = csv.DictReader(csv_file)
         for row in csv_reader:
             json_array.append(row)
+    return json_array
+
+
+def fetch_json_format(json_list):
+    json_str = json.dumps(json_list, indent=4, ensure_ascii=False)
+    return json_str
+
+
+def write_to_json(json_string):
     with open(json_name, 'w') as json_file:
-        json_string = json.dumps(json_array, indent=4, ensure_ascii=False)
         json_file.write(json_string)
 
 
@@ -99,7 +107,9 @@ if __name__ == '__main__':
     web_tree = fetch_root_tree(web_root)
     web_results = fetch_web_element_info(web_root)
     write_to_csv(web_results, web_tree, web_root)
-    write_to_json()
+    json_list = fetch_json_list()
+    json_string = fetch_json_format(json_list)
+    write_to_json(json_string)
 
     # xpathr = [tree.getpath(result) for result in results]
     # print(xpathr)
