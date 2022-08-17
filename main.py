@@ -2,7 +2,7 @@ import csv
 from lxml import html
 from page_info import page
 import json
-
+from resources.variables import *
 
 # --------SOUP-----------
 # soup = BeautifulSoup(page.content, 'html.parser')
@@ -38,6 +38,8 @@ import json
 #     print(elementr[0].get('id'))
 # --------------------------------
 
+
+
 def fetch_page_content():
     page_content = html.fromstring(page.content)
     return page_content
@@ -49,12 +51,12 @@ def fetch_root_tree(root):
 
 
 def fetch_web_element_info(root):
-    web_elements = root.xpath('/html/body/div//*')
+    web_elements = root.xpath(xpath_start)
     return web_elements
 
 
 def write_to_csv(results, tree, root):
-    with open('outputs/Kainos_CSV_xpaths.csv', 'w', encoding='windows-1257', errors="xmlcharrefreplace") as file:
+    with open(csv_name, 'w', encoding='windows-1257', errors="xmlcharrefreplace") as file:
         file.write("type" + "," + "attribute" + "," + "xpath" + "\n")
         for result in results:
             xpath = tree.getpath(result)
@@ -81,31 +83,13 @@ def write_to_csv(results, tree, root):
                 file.write("," + "/" + xpath + "\n")
 
 
-# add = {'type': 'ids',
-#         'attribute': 'foot',
-#         'xpath': '//html/body/div/*'}
-#
-# attributes = {'type': 'type',
-#                'attribute': 'attribute',
-#                'xpath': 'xpath'}
-#
-# json_load_add = json.dumps(add, indent=4)
-# json_load_attribute = json.dumps(attributes, indent=4)
-#
-# print(json_load_add)
-# print(json_load_attribute)
-#
-# json_merged={key:value for (key,value) in (add.items()+attributes.items())}
-# my_dict = json.loads(json_merged)
-
-
 def write_to_json():
     json_array = []
-    with open('outputs/Kainos_CSV_xpaths.csv', 'r') as csv_file:
+    with open(csv_name, 'r') as csv_file:
         csv_reader = csv.DictReader(csv_file)
         for row in csv_reader:
             json_array.append(row)
-    with open('outputs/Kainos_JSON_xpaths.json', 'w') as json_file:
+    with open(json_name, 'w') as json_file:
         json_string = json.dumps(json_array, indent=4, ensure_ascii=False)
         json_file.write(json_string)
 
