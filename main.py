@@ -84,11 +84,9 @@ def write_to_csv(results, tree, root):
 
 
 def fetch_json_list():
-    json_array = []
     with open(csv_name, 'r') as csv_file:
         csv_reader = csv.DictReader(csv_file)
-        for row in csv_reader:
-            json_array.append(row)
+        json_array = [row for row in csv_reader]
     return json_array
 
 
@@ -110,8 +108,3 @@ if __name__ == '__main__':
     json_list = fetch_json_list()
     json_string = fetch_json_format(json_list)
     write_to_json_file(json_string)
-
-    # xpathr = [tree.getpath(result) for result in results]
-    # print(xpathr)
-    # full_xpath = ['/' + xpathr[results.index(result)] for result in results]
-    # print(full_xpath)
