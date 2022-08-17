@@ -1,6 +1,6 @@
 import csv
 from lxml import html
-from page_info import page
+from resources.page_info import page
 import json
 from resources.variables import *
 
