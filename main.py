@@ -44,8 +44,8 @@ def fetch_page_content():
 
 
 def fetch_root_tree(root):
-    web_tree = root.getroottree()
-    return web_tree
+    web_html_tree = root.getroottree()
+    return web_html_tree
 
 
 def fetch_web_element_info(root):
@@ -53,8 +53,8 @@ def fetch_web_element_info(root):
     return web_elements
 
 
-def write_to_csv(results, tree):
-    with open('outputs/degaluKainos_xpaths.csv', 'w',encoding='windows-1257',errors="xmlcharrefreplace") as file:
+def write_to_csv(results, tree, root):
+    with open('outputs/Kainos_CSV_xpaths.csv', 'w', encoding='windows-1257', errors="xmlcharrefreplace") as file:
         file.write("type" + "," + "attribute" + "," + "xpath" + "\n")
         for result in results:
             xpath = tree.getpath(result)
@@ -101,20 +101,20 @@ def write_to_csv(results, tree):
 
 def write_to_json():
     json_array = []
-    with open('outputs/degaluKainos_xpaths.csv', 'r') as csv_file:
+    with open('outputs/Kainos_CSV_xpaths.csv', 'r') as csv_file:
         csv_reader = csv.DictReader(csv_file)
         for row in csv_reader:
             json_array.append(row)
-    with open('outputs/Kainos_xpaths.json', 'w') as json_file:
-        json_string = json.dumps(json_array, indent=4,ensure_ascii=False)
+    with open('outputs/Kainos_JSON_xpaths.json', 'w') as json_file:
+        json_string = json.dumps(json_array, indent=4, ensure_ascii=False)
         json_file.write(json_string)
 
 
 if __name__ == '__main__':
-    root = fetch_page_content()
-    tree = fetch_root_tree(root)
-    results = fetch_web_element_info(root)
-    write_to_csv(results, tree)
+    web_root = fetch_page_content()
+    web_tree = fetch_root_tree(web_root)
+    web_results = fetch_web_element_info(web_root)
+    write_to_csv(web_results, web_tree, web_root)
     write_to_json()
 
     # xpathr = [tree.getpath(result) for result in results]

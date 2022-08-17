@@ -14,7 +14,7 @@ where is the first part of the element should be represent the element as it is 
 4)for example from the attached picture:"'Kuro kainos degalinėse' - Text" = "//*[@id="filtering"]/div/h1" +-
 
 ----------------------SECOND PART----------------------------------------------
-Based on your code - create the output file in JSON format which should contain:
+Based on your code - create the output file in JSON format which should contain: +
 attribute name - which you get in the array root.xpath('/html/body/div//*') the xpath of it attribute
 In this case you will get just more understandable format - like:
 {'id': 'footCopy'} : /html/body/div/div[4]/div[2]
