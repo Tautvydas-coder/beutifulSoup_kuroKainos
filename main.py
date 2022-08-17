@@ -97,7 +97,7 @@ def fetch_json_format(json_list):
     return json_str
 
 
-def write_to_json(json_string):
+def write_to_json_file(json_string):
     with open(json_name, 'w') as json_file:
         json_file.write(json_string)
 
@@ -109,7 +109,7 @@ if __name__ == '__main__':
     write_to_csv(web_results, web_tree, web_root)
     json_list = fetch_json_list()
     json_string = fetch_json_format(json_list)
-    write_to_json(json_string)
+    write_to_json_file(json_string)
 
     # xpathr = [tree.getpath(result) for result in results]
     # print(xpathr)
