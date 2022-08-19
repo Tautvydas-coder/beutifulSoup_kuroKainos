@@ -190,73 +190,73 @@ none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[1]
 text,Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[1]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[2]
-text,Ðilutë,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[2]/a
+text,Kaunas,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[2]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[3]
-text,Traksëdþiai,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[3]/a
-text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[4]
+text,Garliava; Vytauto  g. 111A,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[3]/a
+text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[4]
 text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[5]
-text,1.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[6]
+text,1.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[6]
 text,1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[7]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[8]
-text,0.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[9]
+text,0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[9]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]
-id,station_743,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[1]
+id,station_783,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[1]
 alt,Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[1]/img
-id,station_marked_743,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[2]
+id,station_marked_783,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[2]
 alt,Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[2]/img
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[1]
 text,Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[1]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[2]
-text,Ðilalë,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[2]/a
+text,Kaunas,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[2]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[3]
-text,Ðoliø k.,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[3]/a
+text,Kurðiø g. 13A,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[3]/a
 text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[4]
 text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[5]
-text,1.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[6]
+text,1.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[6]
 text,1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[7]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[8]
 text,0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[9]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]
-id,station_677,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[1]
+id,station_773,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[1]
 alt,Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[1]/img
-id,station_marked_677,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[2]
+id,station_marked_773,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[2]
 alt,Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[2]/img
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[1]
 text,Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[1]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[2]
-text,Raseiniai,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[2]/a
+text,Vilnius,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[2]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[3]
-text,Maironio g. 78b,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[3]/a
-text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[4]
+text,Parko g. 69A,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[3]/a
+text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[4]
 text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[5]
-text,1.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[6]
-text,1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[7]
+text,1.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[6]
+text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[7]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[8]
 text,0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[9]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]
-id,station_676,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[1]
+id,station_782,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[1]
 alt,Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[1]/img
-id,station_marked_676,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[2]
+id,station_marked_782,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[2]
 alt,Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[2]/img
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[1]
 text,Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[1]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[2]
-text,Pakruojis,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[2]/a
+text,Kaunas,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[2]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[3]
-text,Kuosiðkiai; Kuosiðkiø k. 4,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[3]/a
-text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[4]
+text,Jonavos g. 51,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[3]/a
+text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[4]
 text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[5]
-text,1.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[6]
+text,1.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[6]
 text,1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[7]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[8]
-text,0.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[9]
+text,0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[9]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]
-id,station_787,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[1]
+id,station_772,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[1]
 alt,Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[1]/img
-id,station_marked_787,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[2]
+id,station_marked_772,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[2]
 alt,Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[2]/img
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[1]
@@ -264,143 +264,143 @@ text,Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[1]/
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[2]
 text,Ðiauliai,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[2]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[3]
-text,Architektø g. 80,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[3]/a
-text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[4]
+text,Giruliø g. 1,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[3]/a
+text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[4]
 text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[5]
-text,1.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[6]
+text,1.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[6]
 text,1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[7]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[8]
 text,0.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[9]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]
-id,station_785,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[1]
+id,station_784,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[1]
 alt,Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[1]/img
-id,station_marked_785,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[2]
+id,station_marked_784,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[2]
 alt,Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[2]/img
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[1]
 text,Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[1]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[2]
-text,Ðiauliai,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[2]/a
+text,Klaipëda,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[2]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[3]
-text,Giruliø g. 1,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[3]/a
-text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[4]
+text,Klipðèiai,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[3]/a
+text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[4]
 text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[5]
-text,1.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[6]
+text,1.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[6]
 text,1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[7]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[8]
-text,0.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[9]
+text,0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[9]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]
-id,station_784,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[1]
+id,station_742,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[1]
 alt,Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[1]/img
-id,station_marked_784,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[2]
+id,station_marked_742,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[2]
 alt,Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[2]/img
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[1]
 text,Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[1]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[2]
-text,Klaipëda,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[2]/a
+text,Ðilutë,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[2]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[3]
-text,Klipðèiai,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[3]/a
+text,Traksëdþiai,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[3]/a
 text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[4]
 text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[5]
-text,1.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[6]
+text,1.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[6]
 text,1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[7]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[8]
-text,0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[9]
+text,0.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[9]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]
-id,station_742,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[1]
+id,station_743,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[1]
 alt,Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[1]/img
-id,station_marked_742,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[2]
+id,station_marked_743,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[2]
 alt,Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[2]/img
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[1]
 text,Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[1]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[2]
-text,Kaunas,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[2]/a
+text,Ðilalë,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[2]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[3]
-text,Garliava; Vytauto  g. 111A,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[3]/a
-text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[4]
+text,Ðoliø k.,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[3]/a
+text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[4]
 text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[5]
-text,1.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[6]
+text,1.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[6]
 text,1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[7]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[8]
 text,0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[9]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]
-id,station_783,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[1]
+id,station_677,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[1]
 alt,Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[1]/img
-id,station_marked_783,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[2]
+id,station_marked_677,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[2]
 alt,Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[2]/img
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[1]
 text,Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[1]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[2]
-text,Kaunas,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[2]/a
+text,Raseiniai,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[2]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[3]
-text,Kurðiø g. 13A,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[3]/a
+text,Maironio g. 78b,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[3]/a
 text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[4]
 text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[5]
-text,1.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[6]
+text,1.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[6]
 text,1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[7]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[8]
 text,0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[9]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]
-id,station_773,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[1]
+id,station_676,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[1]
 alt,Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[1]/img
-id,station_marked_773,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[2]
+id,station_marked_676,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[2]
 alt,Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[2]/img
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[1]
 text,Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[1]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[2]
-text,Kaunas,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[2]/a
+text,Pakruojis,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[2]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[3]
-text,Jonavos g. 51,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[3]/a
-text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[4]
+text,Kuosiðkiai; Kuosiðkiø k. 4,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[3]/a
+text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[4]
 text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[5]
-text,1.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[6]
+text,1.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[6]
 text,1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[7]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[8]
-text,0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[9]
+text,0.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[9]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]
-id,station_772,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[1]
+id,station_787,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[1]
 alt,Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[1]/img
-id,station_marked_772,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[2]
+id,station_marked_787,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[2]
 alt,Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[2]/img
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[1]
 text,Jozita,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[1]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[2]
-text,Vilnius,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[2]/a
+text,Ðiauliai,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[2]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[3]
-text,Parko g. 69A,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[3]/a
-text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[4]
+text,Architektø g. 80,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[3]/a
+text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[4]
 text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[5]
-text,1.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[6]
-text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[7]
+text,1.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[6]
+text,1.360,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[7]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[8]
-text,0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[9]
+text,0.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[9]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]
-id,station_782,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[1]
+id,station_785,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[1]
 alt,Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[1]/img
-id,station_marked_782,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[2]
+id,station_marked_785,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[2]
 alt,Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[2]/img
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[1]
 text,Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[1]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[2]
-text,Ðilalë,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[2]/a
+text,Kaunas,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[2]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[3]
-text,Rytinio Kelio g. 19,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[3]/a
+text,V. Krëvës pr. 116,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[3]/a
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[4]
-text,1.670,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[5]
-text,1.700,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[6]
-text,1.390,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[7]
+text,1.700,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[5]
+text,1.710,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[6]
+text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[7]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[8]
-text,0.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[9]
+text,0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[9]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]
-id,station_650,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[1]
+id,station_644,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[1]
 alt,Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[1]/img
-id,station_marked_650,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[2]
+id,station_marked_644,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[2]
 alt,Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[2]/img
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[14]/td[1]
@@ -424,37 +424,37 @@ none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[1]
 text,Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[1]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[2]
-text,Alytus,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[2]/a
+text,Akmenë,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[2]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[3]
-text,Pramonës g. 5,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[3]/a
+text,Paðakarniø g. 1; Paðakarniø k.,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[3]/a
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[4]
-text,1.710,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[5]
-text,1.710,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[6]
-text,1.410,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[7]
+text,1.730,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[5]
+text,1.720,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[6]
+text,1.430,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[7]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[8]
-text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[9]
+text,0.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[9]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]
-id,station_636,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[1]
+id,station_659,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[1]
 alt,Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[1]/img
-id,station_marked_636,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[2]
+id,station_marked_659,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[2]
 alt,Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[2]/img
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[1]
 text,Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[1]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[2]
-text,Alytus,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[2]/a
+text,Ðilalë,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[2]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[3]
-text,Miðkininkø g. 7,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[3]/a
+text,Rytinio Kelio g. 19,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[3]/a
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[4]
-text,1.710,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[5]
-text,1.710,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[6]
-text,1.410,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[7]
+text,1.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[5]
+text,1.720,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[6]
+text,1.390,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[7]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[8]
-text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[9]
+text,0.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[9]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]
-id,station_635,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[1]
+id,station_650,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[1]
 alt,Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[1]/img
-id,station_marked_635,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[2]
+id,station_marked_650,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[2]
 alt,Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[2]/img
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[1]
@@ -465,7 +465,7 @@ none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[3]
 text,Jûrininkø pr. 29,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[3]/a
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[4]
 text,1.710,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[5]
-text,1.710,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[6]
+text,1.720,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[6]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[7]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[8]
 text,0.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[9]
@@ -478,37 +478,37 @@ none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[1]
 text,Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[1]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[2]
-text,Kaunas,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[2]/a
+text,Vilnius,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[2]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[3]
-text,V. Krëvës pr. 116,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[3]/a
+text,Zujûnai; Buivydiðkiø g. 1a,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[3]/a
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[4]
-text,1.700,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[5]
-text,1.710,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[6]
+text,1.710,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[5]
+text,1.720,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[6]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[7]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[8]
 text,0.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[9]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]
-id,station_644,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[1]
+id,station_631,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[1]
 alt,Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[1]/img
-id,station_marked_644,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[2]
+id,station_marked_631,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[2]
 alt,Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[2]/img
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[1]
 text,Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[1]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[2]
-text,Kaunas,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[2]/a
+text,Vilnius,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[2]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[3]
-text,Babtø k.,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[3]/a
+text,Jankiðkiø g. 43,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[3]/a
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[4]
-text,1.680,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[5]
-text,1.710,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[6]
-text,1.410,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[7]
+text,1.710,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[5]
+text,1.720,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[6]
+text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[7]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[8]
 text,0.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[9]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]
-id,station_643,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[1]
+id,station_630,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[1]
 alt,Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[1]/img
-id,station_marked_643,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[2]
+id,station_marked_630,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[2]
 alt,Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[2]/img
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[1]
@@ -516,7 +516,7 @@ text,Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[1
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[2]
 text,Akmenë,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[2]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[3]
-text,Paðakarniø g. 1; Paðakarniø k.,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[3]/a
+text,N. Akmenë V. Kudirkos 18a,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[3]/a
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[4]
 text,1.730,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[5]
 text,1.720,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[6]
@@ -524,27 +524,27 @@ text,1.430,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[7]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[8]
 text,0.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[9]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]
-id,station_659,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[1]
+id,station_660,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[1]
 alt,Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[1]/img
-id,station_marked_659,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[2]
+id,station_marked_660,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[2]
 alt,Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[2]/img
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[1]
 text,Saurida,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[1]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[2]
-text,Akmenë,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[2]/a
+text,Vilnius,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[2]/a
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[3]
-text,N. Akmenë V. Kudirkos 18a,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[3]/a
+text,Èekoniðkiø km.,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[3]/a
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[4]
-text,1.730,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[5]
-text,1.720,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[6]
-text,1.430,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[7]
+text,1.710,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[5]
+text,1.730,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[6]
+text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[7]
 text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[8]
-text,0.690,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[9]
+text,-,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[9]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]
-id,station_660,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[1]
+id,station_633,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[1]
 alt,Átraukti á savo degaliniø sàraðà,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[1]/img
-id,station_marked_660,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[2]
+id,station_marked_633,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[2]
 alt,Iðbraukti ið savo degaliniø sàraðo,//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[2]/img
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[2]
 none,,//html/body/div/div[2]/div[2]/div/form/div/div[2]/div[3]

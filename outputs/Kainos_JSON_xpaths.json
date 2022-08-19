@@ -956,7 +956,7 @@
     },
     {
         "type": "text",
-        "attribute": "Ðilutë",
+        "attribute": "Kaunas",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[2]/a"
     },
     {
@@ -966,12 +966,12 @@
     },
     {
         "type": "text",
-        "attribute": "Traksëdþiai",
+        "attribute": "Garliava; Vytauto  g. 111A",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[3]/a"
     },
     {
         "type": "text",
-        "attribute": "1.680",
+        "attribute": "-",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[4]"
     },
     {
@@ -981,7 +981,7 @@
     },
     {
         "type": "text",
-        "attribute": "1.670",
+        "attribute": "1.690",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[6]"
     },
     {
@@ -996,7 +996,7 @@
     },
     {
         "type": "text",
-        "attribute": "0.670",
+        "attribute": "0.680",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[9]"
     },
     {
@@ -1006,7 +1006,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_743",
+        "attribute": "station_783",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[1]"
     },
     {
@@ -1016,7 +1016,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_marked_743",
+        "attribute": "station_marked_783",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[2]/td[10]/div[2]"
     },
     {
@@ -1046,7 +1046,7 @@
     },
     {
         "type": "text",
-        "attribute": "Ðilalë",
+        "attribute": "Kaunas",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[2]/a"
     },
     {
@@ -1056,7 +1056,7 @@
     },
     {
         "type": "text",
-        "attribute": "Ðoliø k.",
+        "attribute": "Kurðiø g. 13A",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[3]/a"
     },
     {
@@ -1071,7 +1071,7 @@
     },
     {
         "type": "text",
-        "attribute": "1.670",
+        "attribute": "1.690",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[6]"
     },
     {
@@ -1096,7 +1096,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_677",
+        "attribute": "station_773",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[1]"
     },
     {
@@ -1106,7 +1106,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_marked_677",
+        "attribute": "station_marked_773",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[3]/td[10]/div[2]"
     },
     {
@@ -1136,7 +1136,7 @@
     },
     {
         "type": "text",
-        "attribute": "Raseiniai",
+        "attribute": "Vilnius",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[2]/a"
     },
     {
@@ -1146,12 +1146,12 @@
     },
     {
         "type": "text",
-        "attribute": "Maironio g. 78b",
+        "attribute": "Parko g. 69A",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[3]/a"
     },
     {
         "type": "text",
-        "attribute": "1.680",
+        "attribute": "-",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[4]"
     },
     {
@@ -1161,12 +1161,12 @@
     },
     {
         "type": "text",
-        "attribute": "1.670",
+        "attribute": "1.690",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[6]"
     },
     {
         "type": "text",
-        "attribute": "1.360",
+        "attribute": "-",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[7]"
     },
     {
@@ -1186,7 +1186,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_676",
+        "attribute": "station_782",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[1]"
     },
     {
@@ -1196,7 +1196,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_marked_676",
+        "attribute": "station_marked_782",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[4]/td[10]/div[2]"
     },
     {
@@ -1226,7 +1226,7 @@
     },
     {
         "type": "text",
-        "attribute": "Pakruojis",
+        "attribute": "Kaunas",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[2]/a"
     },
     {
@@ -1236,12 +1236,12 @@
     },
     {
         "type": "text",
-        "attribute": "Kuosiðkiai; Kuosiðkiø k. 4",
+        "attribute": "Jonavos g. 51",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[3]/a"
     },
     {
         "type": "text",
-        "attribute": "-",
+        "attribute": "1.680",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[4]"
     },
     {
@@ -1251,7 +1251,7 @@
     },
     {
         "type": "text",
-        "attribute": "1.670",
+        "attribute": "1.690",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[6]"
     },
     {
@@ -1266,7 +1266,7 @@
     },
     {
         "type": "text",
-        "attribute": "0.670",
+        "attribute": "0.680",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[9]"
     },
     {
@@ -1276,7 +1276,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_787",
+        "attribute": "station_772",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[1]"
     },
     {
@@ -1286,7 +1286,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_marked_787",
+        "attribute": "station_marked_772",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[5]/td[10]/div[2]"
     },
     {
@@ -1326,12 +1326,12 @@
     },
     {
         "type": "text",
-        "attribute": "Architektø g. 80",
+        "attribute": "Giruliø g. 1",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[3]/a"
     },
     {
         "type": "text",
-        "attribute": "1.680",
+        "attribute": "-",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[4]"
     },
     {
@@ -1341,7 +1341,7 @@
     },
     {
         "type": "text",
-        "attribute": "1.670",
+        "attribute": "1.690",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[6]"
     },
     {
@@ -1366,7 +1366,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_785",
+        "attribute": "station_784",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[1]"
     },
     {
@@ -1376,7 +1376,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_marked_785",
+        "attribute": "station_marked_784",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[6]/td[10]/div[2]"
     },
     {
@@ -1406,7 +1406,7 @@
     },
     {
         "type": "text",
-        "attribute": "Ðiauliai",
+        "attribute": "Klaipëda",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[2]/a"
     },
     {
@@ -1416,12 +1416,12 @@
     },
     {
         "type": "text",
-        "attribute": "Giruliø g. 1",
+        "attribute": "Klipðèiai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[3]/a"
     },
     {
         "type": "text",
-        "attribute": "-",
+        "attribute": "1.680",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[4]"
     },
     {
@@ -1431,7 +1431,7 @@
     },
     {
         "type": "text",
-        "attribute": "1.670",
+        "attribute": "1.690",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[6]"
     },
     {
@@ -1446,7 +1446,7 @@
     },
     {
         "type": "text",
-        "attribute": "0.670",
+        "attribute": "0.680",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[9]"
     },
     {
@@ -1456,7 +1456,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_784",
+        "attribute": "station_742",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[1]"
     },
     {
@@ -1466,7 +1466,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_marked_784",
+        "attribute": "station_marked_742",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[7]/td[10]/div[2]"
     },
     {
@@ -1496,7 +1496,7 @@
     },
     {
         "type": "text",
-        "attribute": "Klaipëda",
+        "attribute": "Ðilutë",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[2]/a"
     },
     {
@@ -1506,7 +1506,7 @@
     },
     {
         "type": "text",
-        "attribute": "Klipðèiai",
+        "attribute": "Traksëdþiai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[3]/a"
     },
     {
@@ -1521,7 +1521,7 @@
     },
     {
         "type": "text",
-        "attribute": "1.670",
+        "attribute": "1.690",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[6]"
     },
     {
@@ -1536,7 +1536,7 @@
     },
     {
         "type": "text",
-        "attribute": "0.680",
+        "attribute": "0.670",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[9]"
     },
     {
@@ -1546,7 +1546,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_742",
+        "attribute": "station_743",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[1]"
     },
     {
@@ -1556,7 +1556,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_marked_742",
+        "attribute": "station_marked_743",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[8]/td[10]/div[2]"
     },
     {
@@ -1586,7 +1586,7 @@
     },
     {
         "type": "text",
-        "attribute": "Kaunas",
+        "attribute": "Ðilalë",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[2]/a"
     },
     {
@@ -1596,12 +1596,12 @@
     },
     {
         "type": "text",
-        "attribute": "Garliava; Vytauto  g. 111A",
+        "attribute": "Ðoliø k.",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[3]/a"
     },
     {
         "type": "text",
-        "attribute": "-",
+        "attribute": "1.680",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[4]"
     },
     {
@@ -1611,7 +1611,7 @@
     },
     {
         "type": "text",
-        "attribute": "1.670",
+        "attribute": "1.690",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[6]"
     },
     {
@@ -1636,7 +1636,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_783",
+        "attribute": "station_677",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[1]"
     },
     {
@@ -1646,7 +1646,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_marked_783",
+        "attribute": "station_marked_677",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[9]/td[10]/div[2]"
     },
     {
@@ -1676,7 +1676,7 @@
     },
     {
         "type": "text",
-        "attribute": "Kaunas",
+        "attribute": "Raseiniai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[2]/a"
     },
     {
@@ -1686,7 +1686,7 @@
     },
     {
         "type": "text",
-        "attribute": "Kurðiø g. 13A",
+        "attribute": "Maironio g. 78b",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[3]/a"
     },
     {
@@ -1701,7 +1701,7 @@
     },
     {
         "type": "text",
-        "attribute": "1.670",
+        "attribute": "1.690",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[6]"
     },
     {
@@ -1726,7 +1726,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_773",
+        "attribute": "station_676",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[1]"
     },
     {
@@ -1736,7 +1736,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_marked_773",
+        "attribute": "station_marked_676",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[10]/td[10]/div[2]"
     },
     {
@@ -1766,7 +1766,7 @@
     },
     {
         "type": "text",
-        "attribute": "Kaunas",
+        "attribute": "Pakruojis",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[2]/a"
     },
     {
@@ -1776,12 +1776,12 @@
     },
     {
         "type": "text",
-        "attribute": "Jonavos g. 51",
+        "attribute": "Kuosiðkiai; Kuosiðkiø k. 4",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[3]/a"
     },
     {
         "type": "text",
-        "attribute": "1.680",
+        "attribute": "-",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[4]"
     },
     {
@@ -1791,7 +1791,7 @@
     },
     {
         "type": "text",
-        "attribute": "1.670",
+        "attribute": "1.690",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[6]"
     },
     {
@@ -1806,7 +1806,7 @@
     },
     {
         "type": "text",
-        "attribute": "0.680",
+        "attribute": "0.670",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[9]"
     },
     {
@@ -1816,7 +1816,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_772",
+        "attribute": "station_787",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[1]"
     },
     {
@@ -1826,7 +1826,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_marked_772",
+        "attribute": "station_marked_787",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[11]/td[10]/div[2]"
     },
     {
@@ -1856,7 +1856,7 @@
     },
     {
         "type": "text",
-        "attribute": "Vilnius",
+        "attribute": "Ðiauliai",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[2]/a"
     },
     {
@@ -1866,12 +1866,12 @@
     },
     {
         "type": "text",
-        "attribute": "Parko g. 69A",
+        "attribute": "Architektø g. 80",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[3]/a"
     },
     {
         "type": "text",
-        "attribute": "-",
+        "attribute": "1.680",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[4]"
     },
     {
@@ -1881,12 +1881,12 @@
     },
     {
         "type": "text",
-        "attribute": "1.670",
+        "attribute": "1.690",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[6]"
     },
     {
         "type": "text",
-        "attribute": "-",
+        "attribute": "1.360",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[7]"
     },
     {
@@ -1896,7 +1896,7 @@
     },
     {
         "type": "text",
-        "attribute": "0.680",
+        "attribute": "0.670",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[9]"
     },
     {
@@ -1906,7 +1906,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_782",
+        "attribute": "station_785",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[1]"
     },
     {
@@ -1916,7 +1916,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_marked_782",
+        "attribute": "station_marked_785",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[12]/td[10]/div[2]"
     },
     {
@@ -1946,7 +1946,7 @@
     },
     {
         "type": "text",
-        "attribute": "Ðilalë",
+        "attribute": "Kaunas",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[2]/a"
     },
     {
@@ -1956,7 +1956,7 @@
     },
     {
         "type": "text",
-        "attribute": "Rytinio Kelio g. 19",
+        "attribute": "V. Krëvës pr. 116",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[3]/a"
     },
     {
@@ -1966,17 +1966,17 @@
     },
     {
         "type": "text",
-        "attribute": "1.670",
+        "attribute": "1.700",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[5]"
     },
     {
         "type": "text",
-        "attribute": "1.700",
+        "attribute": "1.710",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[6]"
     },
     {
         "type": "text",
-        "attribute": "1.390",
+        "attribute": "-",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[7]"
     },
     {
@@ -1986,7 +1986,7 @@
     },
     {
         "type": "text",
-        "attribute": "0.690",
+        "attribute": "0.680",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[9]"
     },
     {
@@ -1996,7 +1996,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_650",
+        "attribute": "station_644",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[1]"
     },
     {
@@ -2006,7 +2006,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_marked_650",
+        "attribute": "station_marked_644",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[13]/td[10]/div[2]"
     },
     {
@@ -2126,7 +2126,7 @@
     },
     {
         "type": "text",
-        "attribute": "Alytus",
+        "attribute": "Akmenë",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[2]/a"
     },
     {
@@ -2136,7 +2136,7 @@
     },
     {
         "type": "text",
-        "attribute": "Pramonës g. 5",
+        "attribute": "Paðakarniø g. 1; Paðakarniø k.",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[3]/a"
     },
     {
@@ -2146,17 +2146,17 @@
     },
     {
         "type": "text",
-        "attribute": "1.710",
+        "attribute": "1.730",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[5]"
     },
     {
         "type": "text",
-        "attribute": "1.710",
+        "attribute": "1.720",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[6]"
     },
     {
         "type": "text",
-        "attribute": "1.410",
+        "attribute": "1.430",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[7]"
     },
     {
@@ -2166,7 +2166,7 @@
     },
     {
         "type": "text",
-        "attribute": "-",
+        "attribute": "0.690",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[9]"
     },
     {
@@ -2176,7 +2176,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_636",
+        "attribute": "station_659",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[1]"
     },
     {
@@ -2186,7 +2186,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_marked_636",
+        "attribute": "station_marked_659",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[15]/td[10]/div[2]"
     },
     {
@@ -2216,7 +2216,7 @@
     },
     {
         "type": "text",
-        "attribute": "Alytus",
+        "attribute": "Ðilalë",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[2]/a"
     },
     {
@@ -2226,7 +2226,7 @@
     },
     {
         "type": "text",
-        "attribute": "Miðkininkø g. 7",
+        "attribute": "Rytinio Kelio g. 19",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[3]/a"
     },
     {
@@ -2236,17 +2236,17 @@
     },
     {
         "type": "text",
-        "attribute": "1.710",
+        "attribute": "1.690",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[5]"
     },
     {
         "type": "text",
-        "attribute": "1.710",
+        "attribute": "1.720",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[6]"
     },
     {
         "type": "text",
-        "attribute": "1.410",
+        "attribute": "1.390",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[7]"
     },
     {
@@ -2256,7 +2256,7 @@
     },
     {
         "type": "text",
-        "attribute": "-",
+        "attribute": "0.690",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[9]"
     },
     {
@@ -2266,7 +2266,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_635",
+        "attribute": "station_650",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[1]"
     },
     {
@@ -2276,7 +2276,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_marked_635",
+        "attribute": "station_marked_650",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[16]/td[10]/div[2]"
     },
     {
@@ -2331,7 +2331,7 @@
     },
     {
         "type": "text",
-        "attribute": "1.710",
+        "attribute": "1.720",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[17]/td[6]"
     },
     {
@@ -2396,7 +2396,7 @@
     },
     {
         "type": "text",
-        "attribute": "Kaunas",
+        "attribute": "Vilnius",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[2]/a"
     },
     {
@@ -2406,7 +2406,7 @@
     },
     {
         "type": "text",
-        "attribute": "V. Krëvës pr. 116",
+        "attribute": "Zujûnai; Buivydiðkiø g. 1a",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[3]/a"
     },
     {
@@ -2416,12 +2416,12 @@
     },
     {
         "type": "text",
-        "attribute": "1.700",
+        "attribute": "1.710",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[5]"
     },
     {
         "type": "text",
-        "attribute": "1.710",
+        "attribute": "1.720",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[6]"
     },
     {
@@ -2446,7 +2446,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_644",
+        "attribute": "station_631",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[1]"
     },
     {
@@ -2456,7 +2456,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_marked_644",
+        "attribute": "station_marked_631",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[18]/td[10]/div[2]"
     },
     {
@@ -2486,7 +2486,7 @@
     },
     {
         "type": "text",
-        "attribute": "Kaunas",
+        "attribute": "Vilnius",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[2]/a"
     },
     {
@@ -2496,7 +2496,7 @@
     },
     {
         "type": "text",
-        "attribute": "Babtø k.",
+        "attribute": "Jankiðkiø g. 43",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[3]/a"
     },
     {
@@ -2506,17 +2506,17 @@
     },
     {
         "type": "text",
-        "attribute": "1.680",
+        "attribute": "1.710",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[5]"
     },
     {
         "type": "text",
-        "attribute": "1.710",
+        "attribute": "1.720",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[6]"
     },
     {
         "type": "text",
-        "attribute": "1.410",
+        "attribute": "-",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[7]"
     },
     {
@@ -2536,7 +2536,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_643",
+        "attribute": "station_630",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[1]"
     },
     {
@@ -2546,7 +2546,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_marked_643",
+        "attribute": "station_marked_630",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[19]/td[10]/div[2]"
     },
     {
@@ -2586,7 +2586,7 @@
     },
     {
         "type": "text",
-        "attribute": "Paðakarniø g. 1; Paðakarniø k.",
+        "attribute": "N. Akmenë V. Kudirkos 18a",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[3]/a"
     },
     {
@@ -2626,7 +2626,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_659",
+        "attribute": "station_660",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[1]"
     },
     {
@@ -2636,7 +2636,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_marked_659",
+        "attribute": "station_marked_660",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[20]/td[10]/div[2]"
     },
     {
@@ -2666,7 +2666,7 @@
     },
     {
         "type": "text",
-        "attribute": "Akmenë",
+        "attribute": "Vilnius",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[2]/a"
     },
     {
@@ -2676,7 +2676,7 @@
     },
     {
         "type": "text",
-        "attribute": "N. Akmenë V. Kudirkos 18a",
+        "attribute": "Èekoniðkiø km.",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[3]/a"
     },
     {
@@ -2686,17 +2686,17 @@
     },
     {
         "type": "text",
-        "attribute": "1.730",
+        "attribute": "1.710",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[5]"
     },
     {
         "type": "text",
-        "attribute": "1.720",
+        "attribute": "1.730",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[6]"
     },
     {
         "type": "text",
-        "attribute": "1.430",
+        "attribute": "-",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[7]"
     },
     {
@@ -2706,7 +2706,7 @@
     },
     {
         "type": "text",
-        "attribute": "0.690",
+        "attribute": "-",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[9]"
     },
     {
@@ -2716,7 +2716,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_660",
+        "attribute": "station_633",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[1]"
     },
     {
@@ -2726,7 +2726,7 @@
     },
     {
         "type": "id",
-        "attribute": "station_marked_660",
+        "attribute": "station_marked_633",
         "xpath": "//html/body/div/div[2]/div[2]/div/form/div/div[2]/table/tr[21]/td[10]/div[2]"
     },
     {

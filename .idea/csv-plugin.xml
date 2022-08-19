@@ -10,7 +10,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\outputs\degaluKainos_xpaths.csv">
+        <entry key="\outputs\mess_CSV_xpaths.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
